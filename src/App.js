@@ -1,7 +1,9 @@
-   import Players from "./Pages/Players";
+   import NewsPage from "./Pages/NewsPage";
+import Players from "./Pages/Players";
 function App() {
   return <div>
-       <Players/>  
+    {/* <Players/>   */}
+    <NewsPage/>
   </div>;
 }
 
