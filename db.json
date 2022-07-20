@@ -1,5 +1,167 @@
 {
-   "players": [],
+   "players": [
+         {
+            "id": 1,
+            "name": "Rishabh Pant",
+            "image": "https://images.cricket.com/players/65756_headshot_safari.png",
+            "country": "INDIA",
+            "logo": "https://seeklogo.com/images/I/Indian_Flag-logo-19B702FA68-seeklogo.com.png"
+         },
+          {
+            "id" : 2,
+            "name":"Yuzvendra Chahal",
+            "image":"https://images.cricket.com/players/9844_headshot_safari.png",
+            "country": "INDIA",
+            "logo": "https://seeklogo.com/images/I/Indian_Flag-logo-19B702FA68-seeklogo.com.png"
+          },
+          {
+            "id" : 3,
+            "name":"Shikhar Dhawan",
+            "image":"https://images.cricket.com/players/3722_headshot_safari.png",
+            "country": "INDIA",
+            "logo": "https://seeklogo.com/images/I/Indian_Flag-logo-19B702FA68-seeklogo.com.png"
+          },
+          {
+            "id" : 4,
+            "name":"Ravindra Jadeja",
+            "image":"https://images.cricket.com/players/3850_headshot_safari.png",
+            "country": "INDIA",
+            "logo": "https://seeklogo.com/images/I/Indian_Flag-logo-19B702FA68-seeklogo.com.png"
+          },
+          {
+            "id" : 5,
+            "name":"Mohammed Siraj",
+            "image":"https://images.cricket.com/players/65799_actionshot_safari.jpg",
+            "country": "INDIA",
+            "logo": "https://seeklogo.com/images/I/Indian_Flag-logo-19B702FA68-seeklogo.com.png"
+          },
+          {
+            "id" : 6,
+            "name":"Suryakumar Yadav",
+            "image":"https://images.cricket.com/players/11803_headshot_safari.png",
+            "country": "INDIA",
+            "logo": "https://seeklogo.com/images/I/Indian_Flag-logo-19B702FA68-seeklogo.com.png"
+          },
+          {
+            "id" : 7,
+            "name":"Sanju Samson",
+            "image":"https://images.cricket.com/players/61837_headshot_safari.png",
+            "country": "INDIA",
+            "logo": "https://seeklogo.com/images/I/Indian_Flag-logo-19B702FA68-seeklogo.com.png"
+          },
+          {
+            "id" : 8,
+            "name":"Cameron Green",
+            "image":"https://images.cricket.com/players/66870_headshot_safari.png",
+            "country": "AUSTRALIA",
+            "logo": "https://image.shutterstock.com/image-illustration/crumpled-fabric-flag-australia-intro-600w-1934834207.jpg"
+          },
+          {
+            "id" : 9,
+            "name":"Adam Zampa",
+            "image":"https://images.cricket.com/players/58913_actionshot_safari.jpg",
+            "country": "AUSTRALIA",
+            "logo": "https://image.shutterstock.com/image-illustration/crumpled-fabric-flag-australia-intro-600w-1934834207.jpg"
+          },
+          {
+            "id" : 10,
+            "name":"Mitchell Marsh",
+            "image":"https://images.cricket.com/players/10094_headshot_safari.png",
+            "country": "AUSTRALIA",
+            "logo": "https://image.shutterstock.com/image-illustration/crumpled-fabric-flag-australia-intro-600w-1934834207.jpg"
+          },
+          {
+            "id" : 11,
+            "name":"Steven Smith",
+            "image":"https://images.cricket.com/players/4308_headshot_safari.png",
+            "country": "AUSTRALIA",
+            "logo": "https://image.shutterstock.com/image-illustration/crumpled-fabric-flag-australia-intro-600w-1934834207.jpg"
+          },
+          {
+            "id" : 12,
+            "name":"David Warner",
+            "image":"https://images.cricket.com/players/5380_headshot_safari.png",
+            "country": "AUSTRALIA",
+            "logo": "https://image.shutterstock.com/image-illustration/crumpled-fabric-flag-australia-intro-600w-1934834207.jpg"
+          },
+          {
+            "id" : 13,
+            "name":"Marnus Labuschagne",
+            "image":"https://images.cricket.com/players/65083_headshot_safari.png",
+            "country": "AUSTRALIA",
+            "logo": "https://image.shutterstock.com/image-illustration/crumpled-fabric-flag-australia-intro-600w-1934834207.jpg"
+          },
+          {
+            "id" : 14,
+            "name":"Glenn Maxwell",
+            "image":"https://images.cricket.com/players/10085_headshot_safari.png",
+            "country": "AUSTRALIA",
+            "logo": "https://image.shutterstock.com/image-illustration/crumpled-fabric-flag-australia-intro-600w-1934834207.jpg"
+          },
+          {
+            "id" : 15,
+            "name":"Aaron Finch",
+            "image":"https://images.cricket.com/players/4196_headshot_safari.png",
+            "country": "AUSTRALIA",
+            "logo": "https://image.shutterstock.com/image-illustration/crumpled-fabric-flag-australia-intro-600w-1934834207.jpg"
+          },
+          {
+            "id" : 16,
+            "name":"Reece Topley",
+            "image":"https://images.cricket.com/players/58101_headshot_safari.png",
+            "country": "ENGLAND",
+            "logo": "https://seeklogo.com/images/E/england-flag-logo-9A30B7DCF3-seeklogo.com.png"
+          },
+          {
+            "id" : 17,
+            "name":"Moeen Ali",
+            "image":"https://images.cricket.com/players/4688_actionshot_safari.jpg",
+            "country": "ENGLAND",
+            "logo": "https://seeklogo.com/images/E/england-flag-logo-9A30B7DCF3-seeklogo.com.png"
+          },
+          {
+            "id" : 18,
+            "name":"David Willey",
+            "image":"https://images.cricket.com/players/35128_headshot_safari.png",
+            "country": "ENGLAND",
+            "logo": "https://seeklogo.com/images/E/england-flag-logo-9A30B7DCF3-seeklogo.com.png"
+          },
+          {
+            "id" : 19,
+            "name":"Jonny Bairstow",
+            "image":"https://images.cricket.com/players/19394_headshot_safari.png",
+            "country": "ENGLAND",
+            "logo": "https://seeklogo.com/images/E/england-flag-logo-9A30B7DCF3-seeklogo.com.png"
+          },
+          {
+            "id" : 20,
+            "name":"Ben Stokes",
+            "image":"https://images.cricket.com/players/10130_headshot_safari.png",
+            "country": "ENGLAND",
+            "logo": "https://seeklogo.com/images/E/england-flag-logo-9A30B7DCF3-seeklogo.com.png"
+          },
+          {
+            "id" : 21,
+            "name":"Jason Roy",
+            "image":"https://images.cricket.com/players/33031_headshot_safari.png",
+            "country": "ENGLAND",
+            "logo": "https://seeklogo.com/images/E/england-flag-logo-9A30B7DCF3-seeklogo.com.png"
+          },
+          {
+            "id" : 22,
+            "name":"Joe Root",
+            "image":"https://images.cricket.com/players/10129_headshot_safari.png",
+            "country": "ENGLAND",
+            "logo": "https://seeklogo.com/images/E/england-flag-logo-9A30B7DCF3-seeklogo.com.png"
+          },
+          {
+            "id" : 23,
+            "name":"Liam Livingstone",
+            "image":"https://images.cricket.com/players/63940_headshot_safari.png",
+            "country": "ENGLAND",
+            "logo": "https://seeklogo.com/images/E/england-flag-logo-9A30B7DCF3-seeklogo.com.png"
+          }        
+   ],
    "news":[],
    "schedule":[]
 }
