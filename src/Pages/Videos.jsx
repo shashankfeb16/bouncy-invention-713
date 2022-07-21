@@ -78,7 +78,7 @@ const Videos = () => {
                 <Iframe url={`https://www.youtube.com/embed/${newid}`} width='900px' height='450px' display='initial' position='relative'></Iframe>
             </Flex>
             <br />
-            <Box>
+            <Box  boxShadow={"rgba(0, 0, 0, 0.35) 0px 5px 15px;"} width={"80%"} margin={"auto"}>
                 {data.map((el) => {
                     return <>
                         <Container centerContent>
