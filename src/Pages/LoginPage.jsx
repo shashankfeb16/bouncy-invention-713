@@ -1,5 +1,5 @@
-import React from 'react';
-import {Box, Button, Input, InputGroup} from "@chakra-ui/react";
+import { Box, Button, Input, InputGroup } from '@chakra-ui/react'
+import React from 'react'
 
 const LoginPage = () => {
   return (
