@@ -1,9 +1,12 @@
-   import Players from "./Pages/Players";
+   import Footer from "./components/footer/Footer";
+import MainRoute from "./Pages/MainRoute";
+import Players from "./Pages/Players";
 import Videos from "./Pages/Videos";
 function App() {
   return <div>
        {/* <Players/>   */}
-       <Videos></Videos>
+      <MainRoute></MainRoute>
+      <Footer></Footer>
   </div>;
 }
 
