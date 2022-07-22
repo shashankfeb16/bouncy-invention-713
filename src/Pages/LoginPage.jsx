@@ -76,9 +76,10 @@ const LoginPage = () => {
 
           <img src="https://www.cricket.com/pngs/tick.png" alt="" />
          </div>
-         <div style={{width:"100%",border:"1px solid red", padding:"10px"}}>
-           <div style={{border:"3px solid red",margin:"10px 0",backgroundColor:"red"}} ></div>
-           <div style={{width:"70%",margin:"20px 0 0 70px",backgroundColor:'red'}} ></div>
+         <div style={{width:"100%", padding:"10px"}}>
+           <div style={{border:"7px solid red",width:"70%",margin:"auto",marginTop:"10px",borderRadius:"5px",backgroundColor:"red"}} ></div>
+           <div style={{border:"5px solid red",width:"50%",margin:"auto",marginTop:"10px",borderRadius:"5px",backgroundColor:'red'}} ></div>
+           <div style={{border:"3px solid red",width:"25%",margin:"auto",marginTop:"10px",borderRadius:"5px",backgroundColor:'red'}} ></div>
 
          </div>
     </div>
@@ -114,7 +115,7 @@ const LoginPage = () => {
         </div>
        </div>
        <div style={{margin:"auto",width:"80px",padding:"10px 0 0 10px"}} >
-        <a href='#5' style={{color:"tomato"}} >Sign Out</a>
+        <a href='#5' style={{color:"tomato",fontWeight:"bold"}} >Sign Out</a>
        </div>
     </Box>
    </div>
