@@ -7,10 +7,10 @@ const Navbar = () => {
     <div>
       <nav className="nav">
         <div className="logo">
-          <img
+          <Link to ={`/`}><img
             alt="logo"
             src="https://www.cricket.com/static/cricket.com.svg"
-          />
+          /></Link>
         </div>
 
         <div className="cont">
