@@ -1,69 +1,82 @@
-import React from 'react'
-import NewsCard from '../components/newscard/NewsCard'
+import React from 'react';
+import news from '../data/newsData';
+import NewsCard from '../components/NewsCard';
+import styled from "styled-components";
+import { useState } from "react";
+
+import { Link } from "react-router-dom";
 
 const NewsPage = () => {
-    let news= [
-    {
-      id: 1,
-      img: "https://images-cricketcom.imgix.net/liveblog_featured-1658288386597?auto=compress&dpr=2&w=1&h=200",
-      heading: "Pakistan close in on win as Jayasuriya dismisses Agha",
-      description: "Live Blog: Sri Lanka vs Pakistan, 1st Test, Day 5",
-      website: "cricket.com staff",
-      date:"20 Jul 2022"
-    },
-    {
-      id: 2,
-      img: "https://images-cricketcom.imgix.net/news-1658285237015?auto=compress&dpr=2&w=1&h=200",
-      heading: "We're probably moving through a bit of a transition phase: Buttler",
-      description: "England lost the T20I and ODI series against India and were now outplayed by the Proteas on Tuesday",
-      website: "cricket.com staff",
-      date:"20 Jul 2022"
-    },{
-      id: 3,
-      img: "https://images-cricketcom.imgix.net/news-1658283271912?auto=compress&dpr=2&w=1&h=200",
-      heading: "Van der Dussen stars as South Africa deny Stokes a farewell ODI win",
-      description: "The right-hander smashed a stunning century to help Proteas win the first ODI by 62 runs",
-      website: "cricket.com staff",
-      date:"20 Jul 2022"
-    },
-    {
-      id: 4,
-      img: "https://images-cricketcom.imgix.net/news-1658239504200?auto=compress&dpr=2&w=1&h=200",
-      heading: "I want to play 140, 150 Tests for England: Stokes",
-      description: "The all rounder also returned the compliment to Kohli, saying he has always admired the energy and commitment he brings to the field",
-      website: "cricket.com staff",
-      date:"20 Jul 2022"
-    },
-    {
-      id: 5,
-      img: "https://images-cricketcom.imgix.net/news-1658233092454?auto=compress&dpr=2&w=1&h=200",
-      heading: "Ton-up Shafique drives Pakistan's record chase at Galle",
-      description: "Pakistan ended day 4 on 222/3, still needing 120 runs to take the lead in the two match series",
-      website: "cricket.com staff",
-      date:"20 Jul 2022"
-    }
- ]
-  
+    const [newsList, setNewsList] = useState(news);
 
-  return (
-      <div>
-          <div style={{"width":"700px","height":"150px","border":"1px solid red","margin":"auto"}}>
-        <h3>News and Articles</h3>
-        {/* <br /> */}
-        <button>LATEST</button>
-        <button>NEWS</button>
-        <button>ON THIS DAY</button>
-        <button>MATCH RELATED </button>
-        <button>FEATURES</button>
+	const handleFilter = (type) => {
+		let updatedNews = news.filter((el) => {
+			return el.type == type;
+		});
+		setNewsList(updatedNews);
+		console.log(news);
+	};
 
-      </div>
-      {news.map((item) => (  
-        <div key={item.id}>
-          <NewsCard data={item} />
-        </div>
-      ))}
-    </div>
-  )
+	return (
+		<div style={{ width: "800px", margin: "auto" }} className="App">
+			<div style={{ width: "580px", height: "100px" }}>
+				<h3>News and Articles</h3>
+				<ButtonWrapper>
+					<button
+						onClick={() => {
+							handleFilter("Latest");
+						}}
+						className="btn"
+					>
+						LATEST
+					</button>
+					<button
+						onClick={() => {
+							handleFilter("News");
+						}}
+						className="btn"
+					>
+						NEWS
+					</button>
+					<button
+						onClick={() => {
+							handleFilter("OnThisDay");
+						}}
+						className="btn"
+					>
+						ON THIS DAY
+					</button>
+					<button
+						onClick={() => {
+							handleFilter("Match");
+						}}
+						className="btn"
+					>
+						MATCH RELATED
+					</button>
+					<button
+						onClick={() => {
+							handleFilter("Features");
+						}}
+						className="btn"
+					>
+						FEATURES
+					</button>
+				</ButtonWrapper>
+			</div>
+			{newsList.map((item) => (
+				<Link style={{"textDecoration":"none","color":"#141b2f"}} to={`/news/${item.id}`}>
+					<div key={item.id}>
+						<NewsCard data={item} />
+					</div>
+				</Link>
+			))}
+		</div>
+	);
 }
 
-export default NewsPage
+export default NewsPage;
+const ButtonWrapper = styled.div`
+	display: flex;
+	justify-content: space-between;
+`;
