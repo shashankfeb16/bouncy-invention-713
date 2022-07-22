@@ -1,0 +1,34 @@
+.series_container{
+    height: fit-content;
+    background-color: rgb(232,233,239);
+}
+.series_container2{
+    border: 1px solid black;
+    width:65%;
+    margin: auto;
+    height: 1000px;
+    background-color: white;
+}
+.series_nav{
+    border: 1px solid red;
+    height: 180px;
+}
+.series_nav_options{
+    /* border:1px solid black; */
+    display: flex;
+}
+.series_nav_options div{
+   width: 33.33%;
+   height: 50px;
+   text-align: center;
+   padding: 10px 0 0 0;
+   cursor: pointer;
+   color: gray;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.options_click{
+    border-bottom: 2px solid maroon;
+}
+.options_notclick{
+   border-bottom: 1px solid rgb(178, 177, 177);
+}
