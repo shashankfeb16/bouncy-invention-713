@@ -1,35 +1,69 @@
-import React from 'react'
-import { Box, Flex } from '@chakra-ui/react'
+import React, { useEffect } from 'react'
+import { useDispatch, useSelector } from 'react-redux'
+import getPlayers from '../redux/Playersreducer/action';
+import     "./Players.css"
+import { SearchIcon  } from '@chakra-ui/icons'
+
 
 const Players = () => {
-  return (
-    <Box   h="600px"bg={"white"} w='75%' margin ="auto" border={"2px solid red"}>
-    This is the Bo
-     <Box w="95%" border={"1px solid black"} margin="auto" >
-       <Flex h={"400px"} justifyContent="space-around">
-          <Box w={"33%"} border="1px solid blue" margin={"auto"} >     
-              
-          </Box>
-          <Box w={"66%"} border="1px solid blue" margin={"auto"}>
-              <Flex w={"100%"} h="50%" flexFlow={"row"}>
-              <Box w={"50%"}  border="1px solid blue"></Box>  
-              <Box w="25%" border="1px solid blue"></Box>
-              <Box w="25%" border="1px solid blue"></Box>  
-              </Flex>   
-          <Flex w={"100%"} h="50%">
-              <Box w="25%" border="1px solid blue"></Box>
-              <Box w="25%" border="1px solid blue"></Box>
-              <Box w="25%" border="1px solid blue"></Box>
-              <Box w="25%" border="1px solid blue"></Box>    
-          </Flex>    
-          </Box>     
-        
-        </Flex>  
-    
+       const dispatch = useDispatch();
+       const playersdata = useSelector((state)=>state.players);
 
-     </Box>
-  </Box>
+    useEffect (()=>{
+          if(playersdata.length == 0 ){
+            console.log("pppp");
+            dispatch(getPlayers());
+          }
+    },[playersdata.length]);
+    console.log(playersdata);
+         
+  return (
+       <div id='maindiv'>
+           <div id='searchbox'>
+           <SearchIcon id='icon'/>
+             <input type="text" placeholder='Search Player'/>
+           </div>
+           <div id='filterbox'>
+              <div> ALL</div>
+              <div> IND</div>
+              <div> NZ</div>
+              <div> AUS</div>
+              <div> ENG</div>
+            </div>
+        <div id='innerdiv'>
+            <div id='flexdiv'>
+              <div > 
+                <img src="https://images.cricket.com/players/65756_headshot_safari.png" alt="" />
+                <p>Rishav Pant</p>
+              </div>
+              <div>
+              <img src="https://images.cricket.com/players/65756_headshot_safari.png" alt="" />
+                <p>Rishav Pant</p>
+              </div>
+              <div> 
+                 <img src="https://images.cricket.com/players/3850_headshot_safari.png" alt="" />  
+                 <p>virat</p>    
+              </div>
+              <div> 
+              <img src="https://images.cricket.com/players/3850_headshot_safari.png" alt="" />  
+                 <p>virat</p>  
+              </div>
+              <div> 
+              <img src="https://images.cricket.com/players/3850_headshot_safari.png" alt="" />  
+                 <p>virat</p>  
+              </div>
+              <div>
+                <img src="https://images.cricket.com/players/4196_headshot_safari.png" alt="" /> 
+                <p>hh</p>
+                </div>
+              <div> </div>
+              <div> </div>
+              </div>   
+        </div>    
+       </div>
   )
 }
 
 export default Players
+
+
