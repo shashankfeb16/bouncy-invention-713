@@ -3,19 +3,20 @@ import { useDispatch, useSelector } from 'react-redux'
 import getPlayers from '../redux/Playersreducer/action';
 import     "./Players.css"
 import { SearchIcon  } from '@chakra-ui/icons'
+import {Link} from "react-router-dom"
 
-
+   
 const Players = () => {
        const dispatch = useDispatch();
-       const playersdata = useSelector((state)=>state.players);
+       const {players} = useSelector((state)=>state.players);
 
     useEffect (()=>{
-          if(playersdata.length == 0 ){
+          if(players.length == 0 ){
             console.log("pppp");
             dispatch(getPlayers());
           }
-    },[playersdata.length]);
-    console.log(playersdata);
+    },[players.length]);
+    console.log(players);
          
   return (
        <div id='maindiv'>
@@ -32,33 +33,17 @@ const Players = () => {
             </div>
         <div id='innerdiv'>
             <div id='flexdiv'>
-              <div > 
-                <img src="https://images.cricket.com/players/65756_headshot_safari.png" alt="" />
-                <p>Rishav Pant</p>
-              </div>
-              <div>
-              <img src="https://images.cricket.com/players/65756_headshot_safari.png" alt="" />
-                <p>Rishav Pant</p>
-              </div>
-              <div> 
-                 <img src="https://images.cricket.com/players/3850_headshot_safari.png" alt="" />  
-                 <p>virat</p>    
-              </div>
-              <div> 
-              <img src="https://images.cricket.com/players/3850_headshot_safari.png" alt="" />  
-                 <p>virat</p>  
-              </div>
-              <div> 
-              <img src="https://images.cricket.com/players/3850_headshot_safari.png" alt="" />  
-                 <p>virat</p>  
-              </div>
-              <div>
-                <img src="https://images.cricket.com/players/4196_headshot_safari.png" alt="" /> 
-                <p>hh</p>
-                </div>
-              <div> </div>
-              <div> </div>
-              </div>   
+              {
+                players.length >= 0 &&  players.map((e)=>
+                <div key={e.id}> 
+                <Link to ={`/players/${e.id}`}>
+                <img src={e.image} alt="" />
+                <p>{e.name}</p>
+                </Link>
+                </div>   
+                )
+              }
+           </div>     
         </div>    
        </div>
   )
