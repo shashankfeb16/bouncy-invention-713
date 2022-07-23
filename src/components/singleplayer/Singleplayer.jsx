@@ -1,21 +1,43 @@
-import { Divider } from '@chakra-ui/react'
+
 import React, { useEffect, useState } from 'react'
 import "./singleplayer.css"
-import { useSelector } from 'react-redux'
+import { useDispatch, useSelector } from 'react-redux'
 import { useParams } from 'react-router-dom'
+import {getPlayerById} from "../../redux/Playersreducer/action"
   
-const Singleplayer = () => {    
+const Singleplayer = () => {  
+
+  const dispatch = useDispatch();  
   const {id} = useParams();
   const {players} = useSelector((state)=>state.players);
-  const [current, setCurrent] = useState([]);
+  const [current, setCurrent] = useState([]); 
+  const [color , setColor] = useState("BAT");
+  const [data, setData] = useState([]);
+  
+  const handleClick = (text)=>{
+    setColor(text)
+        if(text == "BAT"){
+           setData(current.batting);
+        }
+        if(text == "BOLL"){
+           setData(current.bowlling);
+        }
+        console.log("bbb", data);
+
+   }
     useEffect(()=>{
-      if(players){
-        var currentPlayer = players.find((item)=>
-        item.id === Number(id));
-        setCurrent(currentPlayer);
-       }
-    },[players,id]);
-     
+        if(players.length >=0){
+           console.log(id);
+            dispatch(getPlayerById(Number(id)));
+        } 
+        setCurrent(players);
+         if(current.id > 0){
+           setData(current.batting);
+         }
+    },[  id,dispatch, players.length,current,]); 
+      
+    
+      
      console.log("cccc",current);
     
   return (
@@ -30,14 +52,14 @@ const Singleplayer = () => {
               <h3>Batting Style</h3>
               <p>right handed</p>
               <h3>Bolling</h3>
-              <p>rihgt arms</p>
+              <p>right arms</p>
             </div>
             <div id='singlediv2'>
               <img src={current.image} alt="" />
             </div>
            </div>
          }
-         
+            
           {/* --------break------- */}
          <div id='carrerbox'>
           <p>Carrer Start</p>
@@ -47,12 +69,13 @@ const Singleplayer = () => {
          </div>
          <hr/>
          <div id='status'>
-           <div>BATTING STATS</div>
-           <div>BOWLING STATS</div>
+           <div  style={{backgroundColor : `${color == "BAT" ? "red" : ""}`, color : `${color == "BAT" ? "white" : ""}`  }}    onClick={()=>handleClick("BAT")}>BATTING STATS</div>
+           <div  style={{backgroundColor : `${color == "BOLL" ? "red" : ""}` , color : `${color == "BOLL" ? "white" : ""}` }}    onClick={()=>handleClick("BOLL")}>BOWLING STATS</div>
          </div>
          <hr/>
          <div >
          <table>
+          <thead>
   <tr>
     <th>Formate</th>
     <th>Test</th>
@@ -62,78 +85,23 @@ const Singleplayer = () => {
     <th>listA</th>
     <th>T20s</th>
   </tr>
-  <tr>
-    <td>Matches</td>
-    <td>78 </td>
-    <td>78</td>
-    <td>89</td>
-    <td>78</td>
-    <td>90</td>
-    <td>89</td>
-  </tr>
-  <tr>
-   <td>Innings</td>
-    <td>65 </td>
-    <td>65</td>
-    <td>88</td>
-    <td>89</td>
-    <td>89</td>
-    <td>89</td>
-  </tr>
-  <tr>
-   <td>Rec. Form</td>
-    <td>65 </td>
-    <td>65</td>
-    <td>88</td>
-    <td>89</td>
-    <td>89</td>
-    <td>89</td>
-  </tr>
-  <tr>
-   <td>Runs</td>
-    <td>65 </td>
-    <td>65</td>
-    <td>88</td>
-    <td>89</td>
-    <td>89</td>
-    <td>89</td>
-  </tr>
-  <tr>
-   <td>Bat S/R</td>
-    <td>65 </td>
-    <td>65</td>
-    <td>88</td>
-    <td>89</td>
-    <td>89</td>
-    <td>89</td>
-  </tr>
-  <tr>
-   <td>Average</td>
-    <td>65 </td>
-    <td>65</td>
-    <td>88</td>
-    <td>89</td>
-    <td>89</td>
-    <td>89</td>
-  </tr>
-  <tr>
-   <td>50s/100s</td>
-    <td>65 </td>
-    <td>65</td>
-    <td>88</td>
-    <td>89</td>
-    <td>89</td>
-    <td>89</td>
-  </tr>
-  <tr>
-   <td>4s/6s</td>
-    <td>65 </td>
-    <td>65</td>
-    <td>88</td>
-    <td>89</td>
-    <td>89</td>
-    <td>89</td>
-  </tr>
+  </thead>
+  <tbody>
+     {
+       data.length >=  0 && data.map((e,index)=>(
+        <tr key={index} >
+        <td>{e.FORMATE}</td>
+        <td>{e.TEST} </td>
+        <td>{e.ODI}</td>
+        <td>{e.T20I}</td>
+        <td>{e.FC}</td>
+        <td>{e.lisrA}</td>
+        <td>{e.T20s}</td>
+      </tr>
+       ))
+     }
+
+  </tbody>
 </table>
   </div>
      <div id='padding'>

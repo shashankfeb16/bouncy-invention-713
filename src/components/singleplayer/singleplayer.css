@@ -1,14 +1,14 @@
 #maindiv{
-    height: 200vh;
+    height: 308vh;
     width: 75%;
-    border: 1px solid red;
+    /* border: 1px solid red; */
     margin: auto;
     background-color: white;
 }
 #singlebox{
      width: 100%;
      height:330px ;
-     border:  1px solid blue;
+     /* border:  1px solid blue; */
      display: flex;
      justify-content: center;
      text-align: left;
@@ -73,10 +73,10 @@
 #status div{
     width: 150px;
     height: 30px;
-    background-color: red;
+    background-color: whitesmoke;
     border-radius: 20px;
     text-align: center;
-    color: white;
+    color: black;
     font-size: small;
     font-weight: 400;
     padding-top: 4px;
