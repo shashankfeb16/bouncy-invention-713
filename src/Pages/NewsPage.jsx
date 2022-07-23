@@ -1,6 +1,6 @@
 import React from 'react';
 import news from '../data/newsData';
-import NewsCard from '../components/NewsCard';
+import NewsCard from '../components/newscard/NewsCard';
 import styled from "styled-components";
 import { useState } from "react";
 
@@ -18,7 +18,12 @@ const NewsPage = () => {
 	};
 
 	return (
-		<div style={{ width: "800px", margin: "auto" }} className="App">
+		<>
+		<br />
+		<br />
+		<br />
+		<br />
+			<div style={{ width: "800px", margin: "auto" }} className="App">
 			<div style={{ width: "580px", height: "100px" }}>
 				<h3>News and Articles</h3>
 				<ButtonWrapper>
@@ -72,6 +77,8 @@ const NewsPage = () => {
 				</Link>
 			))}
 		</div>
+		
+		</>
 	);
 }
 

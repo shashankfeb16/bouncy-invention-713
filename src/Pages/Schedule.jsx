@@ -197,8 +197,8 @@ const Schedule = () => {
     const [items1, setItems1] = useState(data1);
     const [items2, setItems2] = useState(data2);
     const [items3, setItems3] = useState(data3);
-    const [items4,setItems4] = useState(data4);
-    const [items5,setItems5] = useState(data5);
+    const [items4, setItems4] = useState(data4);
+    const [items5, setItems5] = useState(data5);
 
 
 
@@ -220,16 +220,16 @@ const Schedule = () => {
         });
         setItems3(updated_data3);
     }
-    const filterItem4 = (schedule)=>{
-        const updated_data4 = data4.filter((curele)=>{
-            return curele.sort===schedule
+    const filterItem4 = (schedule) => {
+        const updated_data4 = data4.filter((curele) => {
+            return curele.sort === schedule
         });
         setItems4(updated_data4);
     }
 
-    const filterItem5 = (schedule)=>{
-        const updated_data5 = data5.filter((curele)=>{
-            return curele.sort===schedule
+    const filterItem5 = (schedule) => {
+        const updated_data5 = data5.filter((curele) => {
+            return curele.sort === schedule
         });
         setItems5(updated_data5);
     }
@@ -291,11 +291,17 @@ const Schedule = () => {
         //     </Box>
         // </Flex>
 
-        <>  <Heading>Schedule</Heading>
+        <>
+            <br />
+            <br />
+            <br />
+            <br />
+
+            <Heading>Schedule</Heading>
             <HStack justifyContent={"center"}>
-                <Button height="40px" width={"200px"} bg={"red"} color={"white"} borderRadius={"5px"} fontSize={"large"} onClick={() => { filterItem1("Upcoming"); filterItem2("Upcoming");filterItem3("Upcoming");filterItem4("Upcoming");filterItem5("Upcoming") }}>Upcoming</Button>
-                <Button height={"40px"} width={"200px"} bg={"lightblue"} color={"black"} borderRadius={"5px"} fontSize={"large"} onClick={() => { filterItem1("Live"); filterItem2("Live");filterItem3("Live");filterItem4("Live");filterItem5("Live") }}>Live</Button>
-                <Button height={"40px"} width={"200px"} bg={"lightblue"} color={"black"} borderRadius={"5px"} fontSize={"large"} onClick={() => { filterItem1("Result"); filterItem2("Result");filterItem3("Result");filterItem4("Result");filterItem5("Result") }}>Result</Button>
+                <Button height="40px" width={"200px"} bg={"red"} color={"white"} borderRadius={"5px"} fontSize={"large"} onClick={() => { filterItem1("Upcoming"); filterItem2("Upcoming"); filterItem3("Upcoming"); filterItem4("Upcoming"); filterItem5("Upcoming") }}>Upcoming</Button>
+                <Button height={"40px"} width={"200px"} bg={"lightblue"} color={"black"} borderRadius={"5px"} fontSize={"large"} onClick={() => { filterItem1("Live"); filterItem2("Live"); filterItem3("Live"); filterItem4("Live"); filterItem5("Live") }}>Live</Button>
+                <Button height={"40px"} width={"200px"} bg={"lightblue"} color={"black"} borderRadius={"5px"} fontSize={"large"} onClick={() => { filterItem1("Result"); filterItem2("Result"); filterItem3("Result"); filterItem4("Result"); filterItem5("Result") }}>Result</Button>
             </HStack>
             <br />
 
