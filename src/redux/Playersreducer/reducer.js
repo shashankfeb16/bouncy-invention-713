@@ -12,9 +12,15 @@ const playersreducer = (state = initialstate, action)=>{
           case types.GET_PLAYERS_REQUEST :
            return {...state, isLoading : true, isError : false };
            case types.GET_PLAYERS_SUCCESS :
-            console.log("payload");
             return  { ...state, isLoading : false, isError: false, players : payload };
             case types.GET_PLAYERS_FAILURE :
+                return { ...state, isLoading : false, isError : true, };
+
+                case types.GET_PLAYERS_REQUESTBYID :
+           return {...state, isLoading : true, isError : false };
+           case types.GET_PLAYERS_SUCCESSBYID :
+            return  { ...state, isLoading : false, isError: false, players : payload };
+            case types.GET_PLAYERS_FAILUREBYID :
                 return { ...state, isLoading : false, isError : true, };
        default :
         return state;  
