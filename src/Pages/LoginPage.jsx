@@ -3,37 +3,59 @@ import { Box, Button, HStack, Input, InputGroup, PinInput, PinInputField } from 
 import { useState } from 'react';
 import {GrFacebook,GrTwitter,} from 'react-icons/gr';
 import {FaWhatsappSquare} from 'react-icons/fa';
+import { useNavigate } from 'react-router-dom';
 
 
 
 const LoginPage = () => {
+  const navigate = useNavigate()
   const [signIn, setSignIn] = useState(true);
   const [otp,setOtp] = useState(false);
   const [register,setRegister] = useState(false);
   const [loginSuc,setLoginSuc] = useState(false);
-
+  const [mobile,setMobile] = useState("");
+  const [pin,setPin]=useState(-1)
+ 
+ const handlePin = (e)=>{
+   setPin(e.target.value)
+ }
   const handleOtp = ()=>{
-      setSignIn(false);
+      if(mobile.length==10){
+        setSignIn(false);
       setOtp(true)
+      }
   }
   const handleRegister=()=>{
-    setSignIn(false);
-    setOtp(false);
+    if(pin>=0){
+      setSignIn(false);
+      setOtp(false);
+    }
     setTimeout(()=>{
       setRegister(true);
       setLoginSuc(false);
     },3000)
     setLoginSuc(true)
   }
+  const handleLoginSuccess = ()=>{
+      navigate("/")
+      setRegister(true)
+      setSignIn(false);
+  }
   return (
     <div style={{marginTop:"50px"}} >
+      {signIn?<div style={{width:"100px",height:"100px",margin:"auto",marginBottom:"10px"}} >
+        <img style={{width:"100%",height:"100%"}} src="https://www.cricket.com/svgs/images/icon-128x128.png" alt="" />
+      </div>:otp?<div style={{width:"100px",height:"100px",margin:"auto",marginBottom:"10px"}} >
+      <img style={{width:"100%",height:"100%"}} src="https://www.cricket.com/svgs/images/icon-128x128.png" alt="" />
+    </div>:null
+      }
       {signIn?<div style={{padding:"5px 0",width:"550px",margin:"auto",height:"fitContent",borderRadius:"5px",boxShadow: "rgba(0, 0, 0, 0.25) 0px 14px 28px, rgba(0, 0, 0, 0.22) 0px 10px 10px",backgroundColor:"white"}} >
     <h5 style={{marginLeft:"15px",color:"rgb(119,119,119)"}} >Login/Register to Cricket.com</h5>
     <Box p={4}  >
        
        <InputGroup>
        
-       <Input variant='flushed' type='tel'  placeholder='+91 Mobile number' />
+       <Input variant='flushed' type='tel' onChange={(e)=>setMobile(e.target.value)}  placeholder='+91 Mobile number' />
        </InputGroup>
        <div style={{margin:"auto",width:"250px",marginTop:"50px"}}>
        <Button bg='rgb(119,119,119)' color="white" width='250px' height='35px' onClick={handleOtp} >Get OTP</Button>
@@ -50,13 +72,13 @@ const LoginPage = () => {
     <h5 style={{marginLeft:"15px",color:"rgb(119,119,119)"}} >Enter OTP</h5>
        
     <HStack style={{ padding:"0 0 0 120px "}} >
-         <PinInput placeholder=''>
+         <PinInput placeholder='' focusBorderColor='none' >
+            <PinInputField border='none' borderBottom='2px solid gray' borderRadius="none"  />
+            <PinInputField border='none' borderBottom='2px solid gray' borderRadius="none"  />
             <PinInputField border='none' borderBottom='2px solid gray' borderRadius="none" />
             <PinInputField border='none' borderBottom='2px solid gray' borderRadius="none" />
             <PinInputField border='none' borderBottom='2px solid gray' borderRadius="none" />
-            <PinInputField border='none' borderBottom='2px solid gray' borderRadius="none" />
-            <PinInputField border='none' borderBottom='2px solid gray' borderRadius="none" />
-            <PinInputField border='none' borderBottom='2px solid gray' borderRadius="none" />
+            <PinInputField border='none' borderBottom='2px solid gray' borderRadius="none"onChange={(e)=>handlePin(e)} />
           </PinInput>
     </HStack>
     <div style={{marginTop:"30px", marginLeft:"130px"}} >
@@ -104,7 +126,7 @@ const LoginPage = () => {
        <br/>
         </div>
        <div style={{margin:"auto",width:"150px",margin:"auto",marginTop:"50px"}}>
-       <Button bg='rgb(119,119,119)' color="white" width='150px'height='35px' >Done</Button>
+       <Button bg='rgb(119,119,119)' color="white" width='150px'height='35px' onClick={handleLoginSuccess} >Done</Button>
        </div>
        <div>
         <p style={{fontSize:"x-small",fontWeight:"bold",padding:"10px 0 10px 150px"}} >Love CRICKET.COM? Share With Friends</p>
