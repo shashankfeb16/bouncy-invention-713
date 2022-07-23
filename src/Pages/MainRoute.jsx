@@ -9,6 +9,7 @@ import Series from './Series';
 import Players from "./Players"
 import Singleplayer from '../components/singleplayer/Singleplayer';
 import Videos from "./Videos"
+import SingleNews from '../components/singlenews/SingleNews';
 
 
 const MainRoute = () => {
@@ -20,7 +21,7 @@ const MainRoute = () => {
         <Route path='/schedule' element={<Schedule></Schedule>}></Route>
         <Route path='/series' element={<Series></Series>}></Route>
         <Route path='/news' element={<NewsPage></NewsPage>}></Route>
-        <Route path='/news/:id' element={<NewsCard></NewsCard>}></Route>
+        <Route path='/news/:id' element={<SingleNews></SingleNews>}></Route>
         <Route path='/players' element={<Players></Players>}></Route>
         <Route path='/players/:id' element={<Singleplayer></Singleplayer>}></Route>
         <Route path='/videos' element={<Videos></Videos>}></Route>

@@ -160,7 +160,14 @@
             "image":"https://images.cricket.com/players/63940_headshot_safari.png",
             "country": "ENGLAND",
             "logo": "https://seeklogo.com/images/E/england-flag-logo-9A30B7DCF3-seeklogo.com.png"
-          }        
+          },
+          {
+            "id" : 24,
+            "name":"Shubman Gill",
+            "image":"https://images.cricket.com/players/66818_headshot_safari.png",
+            "country": "India",
+            "logo": "https://images.cricket.com/teams/4_flag_safari.png"
+          }           
    ],
    "news":[],
    "schedule":[]

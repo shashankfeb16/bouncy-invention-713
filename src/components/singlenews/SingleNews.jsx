@@ -1,9 +1,10 @@
 import React, { useEffect, useState } from "react";
 import { useParams } from "react-router-dom";
-import news from "../data/newsData";
+import news from "../../data/newsData";
 import styles from "./SingleNews.module.css";
 
 const SingleNews = () => {
+	console.log(news)
 	const { id } = useParams();
 	const [singlenews, setSingleNews] = useState({});
 	useEffect(() => {

@@ -55,8 +55,8 @@
     flex-wrap: wrap;
 }
  #flexdiv  div{
-    width: 24%;
-    height: 98%;
+    width: 23%;
+    height: 80%;
     background-color: whitesmoke;
     margin-bottom: 10px;
     cursor: pointer;
