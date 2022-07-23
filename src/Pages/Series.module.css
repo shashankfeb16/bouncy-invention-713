@@ -3,15 +3,15 @@
     background-color: rgb(232,233,239);
 }
 .series_container2{
-    border: 1px solid black;
     width:65%;
     margin: auto;
-    height: 1000px;
+    height: 700px;
     background-color: white;
+    overflow: hidden;
 }
 .series_nav{
-    border: 1px solid red;
-    height: 180px;
+    border-bottom: 1px solid gray;
+    height: 130px;
 }
 .series_nav_options{
     /* border:1px solid black; */
@@ -24,6 +24,7 @@
    padding: 10px 0 0 0;
    cursor: pointer;
    color: gray;
+   font-size: 14px;
    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 .options_click{
@@ -31,4 +32,126 @@
 }
 .options_notclick{
    border-bottom: 1px solid rgb(178, 177, 177);
+}
+.filters_series{
+  display: flex;
+  margin-top: 30px;
+  justify-content: space-around;
+}
+.filters_series div{
+    cursor: pointer;
+}
+.allSeries{
+    border:1px solid black;
+    border-radius: 15px;
+    padding: 3px 20px;
+    font-size: 14px;
+    font-weight: 600;
+}
+.allSeriesClick{
+    background-color: maroon;
+    color: white;
+    font-weight: 600;
+    border:1px solid maroon;
+    border-radius: 15px;
+    padding: 3px 20px;
+    font-size: 14px;
+}
+.internationalSeries{
+    border:1px solid royalblue;
+    border-radius: 15px;
+    padding: 3px 20px;
+    font-size: 14px;
+    font-weight: 600;
+}
+.domesticSeries{
+    border:1px solid greenyellow;
+    border-radius: 15px;
+    padding: 3px 20px;
+    font-size: 14px;
+    font-weight: 600;
+}
+.womenSeries{
+    border:1px solid red;
+    border-radius: 15px;
+    padding: 3px 20px;
+    font-size: 14px;
+    font-weight: 600;
+}
+.category_series{
+    color:gray;
+    font-size: 14px;
+    font-weight: 600;
+}
+.category_series:hover{
+    text-decoration: underline;
+    color:black;
+}
+
+
+.series_box{
+    height: 600px;
+    overflow-y:scroll;
+    
+}
+.series_contentBox{
+    height: 1000px;
+    overflow: scroll;
+}
+.series_box::-webkit-scrollbar{
+    width: 5px;
+}
+.series_contentBox::-webkit-scrollbar{
+    width: 5px;
+}
+.series_matches{
+    height: 100px;
+    width: 80%;
+    display: flex;
+    margin: auto;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+.series_tour{
+  width: 70%;
+  border:1px solid rgb(164,192,198) ;
+}
+.series_tour1{
+    width: 70%;
+  border:1px solid rgb(67,184,142) ;
+
+  }
+  .series_tour2{
+    width: 70%;
+  border:1px solid rgb(255,132,116);
+
+  }
+.series_date{
+   width: 30%;
+   background-color: rgb(164,192,198) ;
+   color:white;
+   font-size: medium;
+   font-weight: 600;
+   text-align: center;
+   padding: 30px 0 0 0;
+}
+.series_date1{
+    width: 30%;
+   background-color: rgb(67,184,142);
+   font-weight: 600;
+   font-size: medium;
+   color:white;
+   text-align: center;
+   padding: 30px 0 0 0;
+
+}
+.series_date2{
+    width: 30%;
+   background-color: rgb(255,132,116) ;
+   font-weight: 600;
+   font-size: medium;
+   color:white;
+   text-align: center;
+   padding: 30px 0 0 0;
+
 }

@@ -170,5 +170,341 @@
           }           
    ],
    "news":[],
-   "schedule":[]
+   "schedule":[],
+   "seriesUpcoming":[
+           {
+            "id":1,
+            "tour":"Namibia Women tour of South Africa",
+             "category":"Domestic",
+             "T20s":4,
+             "ODIs":0,
+             "Test":0,
+             "startDate":"Jul 13th",
+             "endDate":"Jul 14th",
+             "year":"2022"
+           },
+           {
+            "id":2,
+            "tour":"Quadrangular Under-19 Series in Netherlands",
+             "category":"Domestic",
+             "T20s":6,
+             "ODIs":0,
+             "Test":0,
+             "startDate":"Jul 19th",
+             "endDate":"Jul 21st",
+             "year":"2022"
+           },
+           {
+            "id":3,
+            "tour":"Women's Twenty20 Commonwealth Games",
+             "category":"Women",
+             "T20s":16,
+             "ODIs":0,
+             "Test":0,
+             "startDate":"Jul 29th",
+             "endDate":"Aug 8th",
+             "year":"2022"
+           },
+           {
+            "id":4,
+            "tour":"New Zealand tour of Scotland",
+             "category":"International",
+             "T20s":2,
+             "ODIs":1,
+             "Test":0,
+             "startDate":"Jul 27th",
+             "endDate":"Jul 31st",
+             "year":"2022"
+           },
+           {
+            "id":5,
+            "tour":"ICC T20 World Cup Europe Qualifier B, 2022",
+             "category":"Domestic",
+             "T20s":24,
+             "ODIs":0,
+             "Test":0,
+             "startDate":"Jul 24th",
+             "endDate":"Jul 31st",
+             "year":""
+           },
+           {
+            "id":6,
+            "tour":"Bangladesh tour of Zimbabwe, 2022",
+             "category":"Domestic",
+             "T20s":3,
+             "ODIs":3,
+             "Test":3,
+             "startDate":"Jul 30th",
+             "endDate":"Aug 10th",
+             "year":"2022"
+           },
+           {
+            "id":7,
+            "tour":"Lanka Premier League",
+             "category":"Domestic",
+             "T20s":24,
+             "ODIs":0,
+             "Test":0,
+             "startDate":"Aug 1st",
+             "endDate":"Aug 21st",
+             "year":"2022"
+           },
+           {
+            "id":8,
+            "tour":"New Zealand tour of Netherlands",
+             "category":"International",
+             "T20s":2,
+             "ODIs":0,
+             "Test":0,
+             "startDate":"Aug 4th",
+             "endDate":"Aug 6th",
+             "year":"2022"
+           },
+           {
+            "id":9,
+            "tour":"Kashmir Premier League",
+             "category":"Domestic",
+             "T20s":19,
+             "ODIs":0,
+             "Test":0,
+             "startDate":"Aug 6th",
+             "endDate":"Aug 17th",
+             "year":""
+           },
+           {
+            "id":10,
+            "tour":"Afghanistan tour of Ireland, 5 T20I Series",
+             "category":"International",
+             "T20s":5,
+             "ODIs":0,
+             "Test":0,
+             "startDate":"Aug 9th",
+             "endDate":"Aug 18th",
+             "year":""
+           }
+   ],
+   "seriesOngoing":[
+    {
+     "id":1,
+     "tour":"India tour of West Indies",
+      "category":"Domestic",
+      "T20s":5,
+      "ODIs":3,
+      "Test":0,
+      "startDate":"Jul 22th",
+      "endDate":"Aug 8th",
+      "year":"2022"
+    },
+    {
+     "id":2,
+     "tour":"ICC CWC League 2",
+      "category":"Domestic",
+      "T20s":0,
+      "ODIs":24,
+      "Test":0,
+      "startDate":"May 29th",
+      "endDate":"Aug 17th",
+      "year":"2022"
+    },
+    {
+     "id":3,
+     "tour":"South Africa tour of England",
+      "category":"Women",
+      "T20s":3,
+      "ODIs":3,
+      "Test":3,
+      "startDate":"July 19th",
+      "endDate":"Sep 12th",
+      "year":"2022"
+    },
+    {
+     "id":4,
+     "tour":"South Africa Women tour of England",
+      "category":"Women",
+      "T20s":3,
+      "ODIs":3,
+      "Test":1,
+      "startDate":"Jun 27th",
+      "endDate":"Jul 26st",
+      "year":"2022"
+    },
+    {
+     "id":5,
+     "tour":"Australia Women and Pakistan Women tour of Ireland, 2022",
+      "category":"Women",
+      "T20s":24,
+      "ODIs":0,
+      "Test":0,
+      "startDate":"Jul 16th",
+      "endDate":"Jul 25st",
+      "year":""
+    },
+    {
+     "id":6,
+     "tour":"Pakistan tour of Sri Lanka",
+      "category":"International",
+      "T20s":3,
+      "ODIs":3,
+      "Test":3,
+      "startDate":"Jul 30th",
+      "endDate":"Aug 10th",
+      "year":"2022"
+    },
+    {
+     "id":7,
+     "tour":"Lanka Premier League",
+      "category":"Domestic",
+      "T20s":24,
+      "ODIs":0,
+      "Test":0,
+      "startDate":"Aug 1st",
+      "endDate":"Aug 21st",
+      "year":"2022"
+    },
+    {
+     "id":8,
+     "tour":"New Zealand tour of Netherlands",
+      "category":"International",
+      "T20s":2,
+      "ODIs":0,
+      "Test":0,
+      "startDate":"Aug 4th",
+      "endDate":"Aug 6th",
+      "year":"2022"
+    },
+    {
+     "id":9,
+     "tour":"Kashmir Premier League",
+      "category":"Domestic",
+      "T20s":19,
+      "ODIs":0,
+      "Test":0,
+      "startDate":"Aug 6th",
+      "endDate":"Aug 17th",
+      "year":""
+    },
+    {
+     "id":10,
+     "tour":"Afghanistan tour of Ireland, 5 T20I Series",
+      "category":"International",
+      "T20s":5,
+      "ODIs":0,
+      "Test":0,
+      "startDate":"Aug 9th",
+      "endDate":"Aug 18th",
+      "year":""
+    }
+],
+"seriesCompleted":[
+  {
+   "id":1,
+   "tour":"New Zealand tour of Ireland",
+    "category":"Domestic",
+    "T20s":3,
+    "ODIs":3,
+    "Test":0,
+    "startDate":"Jul 10th",
+    "endDate":"Jul 22nd",
+    "year":"2022"
+  },
+  {
+   "id":2,
+   "tour":"Bukhatir T10 League",
+    "category":"International",
+    "T20s":28,
+    "ODIs":0,
+    "Test":0,
+    "startDate":"Jul 3rd",
+    "endDate":"Jul 21th",
+    "year":"2022"
+  },
+  {
+   "id":3,
+   "tour":"ICC T20 World Cup Europe Qualifier A",
+    "category":"Women",
+    "T20s":24,
+    "ODIs":0,
+    "Test":0,
+    "startDate":"July 12th",
+    "endDate":"Jul 19th",
+    "year":"2022"
+  },
+  {
+   "id":4,
+   "tour":"Shriram Andhra Premier League",
+    "category":"Domestic",
+    "T20s":19,
+    "ODIs":0,
+    "Test":0,
+    "startDate":"Jul 6th",
+    "endDate":"Jul 18th",
+    "year":"2022"
+  },
+  {
+   "id":5,
+   "tour":"India tour of England",
+    "category":"International",
+    "T20s":3,
+    "ODIs":3,
+    "Test":1,
+    "startDate":"Jul 7th",
+    "endDate":"Jul 17th",
+    "year":""
+  },
+  {
+   "id":6,
+   "tour":"Pakistan tour of Sri Lanka",
+    "category":"International",
+    "T20s":3,
+    "ODIs":3,
+    "Test":3,
+    "startDate":"Jul 30th",
+    "endDate":"Aug 10th",
+    "year":"2022"
+  },
+  {
+   "id":7,
+   "tour":"Lanka Premier League",
+    "category":"Domestic",
+    "T20s":24,
+    "ODIs":0,
+    "Test":0,
+    "startDate":"Aug 1st",
+    "endDate":"Aug 21st",
+    "year":"2022"
+  },
+  {
+   "id":8,
+   "tour":"New Zealand tour of Netherlands",
+    "category":"International",
+    "T20s":2,
+    "ODIs":0,
+    "Test":0,
+    "startDate":"Aug 4th",
+    "endDate":"Aug 6th",
+    "year":"2022"
+  },
+  {
+   "id":9,
+   "tour":"Kashmir Premier League",
+    "category":"Domestic",
+    "T20s":19,
+    "ODIs":0,
+    "Test":0,
+    "startDate":"Aug 6th",
+    "endDate":"Aug 17th",
+    "year":""
+  },
+  {
+   "id":10,
+   "tour":"Afghanistan tour of Ireland, 5 T20I Series",
+    "category":"International",
+    "T20s":5,
+    "ODIs":0,
+    "Test":0,
+    "startDate":"Aug 9th",
+    "endDate":"Aug 18th",
+    "year":""
+  }
+]
 }
