@@ -5,506 +5,4965 @@
             "name": "Rishabh Pant",
             "image": "https://images.cricket.com/players/65756_headshot_safari.png",
             "country": "INDIA",
-            "logo": "https://seeklogo.com/images/I/Indian_Flag-logo-19B702FA68-seeklogo.com.png"
+            "logo": "https://seeklogo.com/images/I/Indian_Flag-logo-19B702FA68-seeklogo.com.png",
+            "batting" : [
+                   {
+                     "FORMATE" : "Matches",
+                     "TEST" :34,
+                     "ODI" : 56,
+                     "T20I" : 68,
+                     "FC":88,
+                     "lisrA": 133,
+                     "T20s": 249
+                   },
+                   {
+                    "FORMATE" : "Innings",
+                    "TEST" :34,
+                    "ODI" : 56,
+                    "T20I" : 68,
+                    "FC":88,
+                    "lisrA": 133,
+                    "T20s": 249
+                  },
+                  {
+                    "FORMATE" : "Rec.Form",
+                    "TEST" :34,
+                    "ODI" : 56,
+                    "T20I" : 68,
+                    "FC":88,
+                    "lisrA": 133,
+                    "T20s": 249
+                  },
+                  {
+                    "FORMATE" : "Runs",
+                    "TEST" :34,
+                    "ODI" : 56,
+                    "T20I" : 68,
+                    "FC":88,
+                    "lisrA": 133,
+                    "T20s": 249
+                  },
+                  {
+                    "FORMATE" : "Bat S/R",
+                    "TEST" :34,
+                    "ODI" : 56,
+                    "T20I" : 68,
+                    "FC":88,
+                    "lisrA": 133,
+                    "T20s": 249
+                  },
+                  {
+                    "FORMATE" : "Average",
+                    "TEST" :34,
+                    "ODI" : 56,
+                    "T20I" : 68,
+                    "FC":88,
+                    "lisrA": 133,
+                    "T20s": 249
+                  },
+                  {
+                    "FORMATE" : "50s/100s",
+                    "TEST" : "1/0",
+                    "ODI" :  " ",
+                    "T20I" :  "13/",
+                    "FC":   "366/67",
+                    "lisrA":  "395/89",
+                    "T20s":  "545/89"
+                  },
+                  {
+                    "FORMATE" : "4s/6s",
+                    "TEST" : "6/1",
+                    "ODI" : "10/4",
+                    "T20I" : "52/39",
+                    "FC": "338/74",
+                    "lisrA":  "178/75",
+                    "T20s":  "304/27"
+                  }
+              ],
+              "bowlling" : [
+                {
+                  "FORMATE" : "Matches",
+                  "TEST" :34,
+                  "ODI" : 56,
+                  "T20I" : 68,
+                  "FC":88,
+                  "lisrA": 133,
+                  "T20s": 249
+                },
+                {
+                 "FORMATE" : "Innings",
+                 "TEST" : "-",
+                 "ODI" :  56,
+                 "T20I" : 68,
+                 "FC":88,
+                 "lisrA": 133,
+                 "T20s": 249
+               },
+               {
+                 "FORMATE" : "Rec.Form",
+                 "TEST" :34,
+                 "ODI" : 56,
+                 "T20I" : 68,
+                 "FC":88,
+                 "lisrA": 133,
+                 "T20s": 249
+               },
+               {
+                 "FORMATE" : "Balls",
+                 "TEST" :34,
+                 "ODI" : 56,
+                 "T20I" : 68,
+                 "FC":88,
+                 "lisrA": 133,
+                 "T20s": 249
+               },
+               {
+                 "FORMATE" : "Wicket",
+                 "TEST" :34,
+                 "ODI" : 56,
+                 "T20I" : 68,
+                 "FC":88,
+                 "lisrA": 133,
+                 "T20s": 249
+               },
+               {
+                 "FORMATE" : "Economy",
+                 "TEST" :34,
+                 "ODI" : 56,
+                 "T20I" : 68,
+                 "FC":88,
+                 "lisrA": 133,
+                 "T20s": 249
+               },
+               {
+                 "FORMATE" : "Bowl S/R",
+                 "TEST" : "1/0",
+                 "ODI" :  " ",
+                 "T20I" :  "13/",
+                 "FC":   "366/67",
+                 "lisrA":  "395/89",
+                 "T20s":  "545/89"
+               },
+               {
+                 "FORMATE" : "5s",
+                 "TEST" :  "-",
+                 "ODI" : "2",
+                 "T20I" : "2",
+                 "FC": "3",
+                 "lisrA":  "2",
+                 "T20s":  "1"
+               }
+           ]
+              
          },
           {
             "id" : 2,
             "name":"Yuzvendra Chahal",
             "image":"https://images.cricket.com/players/9844_headshot_safari.png",
             "country": "INDIA",
-            "logo": "https://seeklogo.com/images/I/Indian_Flag-logo-19B702FA68-seeklogo.com.png"
+            "logo": "https://seeklogo.com/images/I/Indian_Flag-logo-19B702FA68-seeklogo.com.png",
+            "batting" : [
+              {
+                "FORMATE" : "Matches",
+                "TEST" :34,
+                "ODI" : 56,
+                "T20I" : 68,
+                "FC":88,
+                "lisrA": 133,
+                "T20s": 249
+              },
+              {
+               "FORMATE" : "Innings",
+               "TEST" :34,
+               "ODI" : 56,
+               "T20I" : 68,
+               "FC":88,
+               "lisrA": 133,
+               "T20s": 249
+             },
+             {
+               "FORMATE" : "Rec.Form",
+               "TEST" :34,
+               "ODI" : 56,
+               "T20I" : 68,
+               "FC":88,
+               "lisrA": 133,
+               "T20s": 249
+             },
+             {
+               "FORMATE" : "Runs",
+               "TEST" :34,
+               "ODI" : 56,
+               "T20I" : 68,
+               "FC":88,
+               "lisrA": 133,
+               "T20s": 249
+             },
+             {
+               "FORMATE" : "Bat S/R",
+               "TEST" :34,
+               "ODI" : 56,
+               "T20I" : 68,
+               "FC":88,
+               "lisrA": 133,
+               "T20s": 249
+             },
+             {
+               "FORMATE" : "Average",
+               "TEST" :34,
+               "ODI" : 56,
+               "T20I" : 68,
+               "FC":88,
+               "lisrA": 133,
+               "T20s": 249
+             },
+             {
+               "FORMATE" : "50s/100s",
+               "TEST" : "1/0",
+               "ODI" :  " ",
+               "T20I" :  "13/",
+               "FC":   "366/67",
+               "lisrA":  "395/89",
+               "T20s":  "545/89"
+             },
+             {
+               "FORMATE" : "4s/6s",
+               "TEST" : "6/1",
+               "ODI" : "10/4",
+               "T20I" : "52/39",
+               "FC": "338/74",
+               "lisrA":  "178/75",
+               "T20s":  "304/27"
+             }
+         ],
+         "bowlling" : [
+           {
+             "FORMATE" : "Matches",
+             "TEST" :34,
+             "ODI" : 56,
+             "T20I" : 68,
+             "FC":88,
+             "lisrA": 133,
+             "T20s": 249
+           },
+           {
+            "FORMATE" : "Innings",
+            "TEST" : "-",
+            "ODI" :  56,
+            "T20I" : 68,
+            "FC":88,
+            "lisrA": 133,
+            "T20s": 249
+          },
+          {
+            "FORMATE" : "Rec.Form",
+            "TEST" :34,
+            "ODI" : 56,
+            "T20I" : 68,
+            "FC":88,
+            "lisrA": 133,
+            "T20s": 249
+          },
+          {
+            "FORMATE" : "Balls",
+            "TEST" :34,
+            "ODI" : 56,
+            "T20I" : 68,
+            "FC":88,
+            "lisrA": 133,
+            "T20s": 249
+          },
+          {
+            "FORMATE" : "Wicket",
+            "TEST" :34,
+            "ODI" : 56,
+            "T20I" : 68,
+            "FC":88,
+            "lisrA": 133,
+            "T20s": 249
+          },
+          {
+            "FORMATE" : "Economy",
+            "TEST" :34,
+            "ODI" : 56,
+            "T20I" : 68,
+            "FC":88,
+            "lisrA": 133,
+            "T20s": 249
+          },
+          {
+            "FORMATE" : "Bowl S/R",
+            "TEST" : "1/0",
+            "ODI" :  " ",
+            "T20I" :  "13/",
+            "FC":   "366/67",
+            "lisrA":  "395/89",
+            "T20s":  "545/89"
+          },
+          {
+            "FORMATE" : "5s",
+            "TEST" :  "-",
+            "ODI" : "2",
+            "T20I" : "2",
+            "FC": "3",
+            "lisrA":  "2",
+            "T20s":  "1"
+          }
+      ]
           },
           {
             "id" : 3,
             "name":"Shikhar Dhawan",
             "image":"https://images.cricket.com/players/3722_headshot_safari.png",
             "country": "INDIA",
-            "logo": "https://seeklogo.com/images/I/Indian_Flag-logo-19B702FA68-seeklogo.com.png"
+            "logo": "https://seeklogo.com/images/I/Indian_Flag-logo-19B702FA68-seeklogo.com.png",
+            "batting" : [
+              {
+                "FORMATE" : "Matches",
+                "TEST" :34,
+                "ODI" : 56,
+                "T20I" : 68,
+                "FC":88,
+                "lisrA": 133,
+                "T20s": 249
+              },
+              {
+               "FORMATE" : "Innings",
+               "TEST" :34,
+               "ODI" : 56,
+               "T20I" : 68,
+               "FC":88,
+               "lisrA": 133,
+               "T20s": 249
+             },
+             {
+               "FORMATE" : "Rec.Form",
+               "TEST" :34,
+               "ODI" : 56,
+               "T20I" : 68,
+               "FC":88,
+               "lisrA": 133,
+               "T20s": 249
+             },
+             {
+               "FORMATE" : "Runs",
+               "TEST" :34,
+               "ODI" : 56,
+               "T20I" : 68,
+               "FC":88,
+               "lisrA": 133,
+               "T20s": 249
+             },
+             {
+               "FORMATE" : "Bat S/R",
+               "TEST" :34,
+               "ODI" : 56,
+               "T20I" : 68,
+               "FC":88,
+               "lisrA": 133,
+               "T20s": 249
+             },
+             {
+               "FORMATE" : "Average",
+               "TEST" :34,
+               "ODI" : 56,
+               "T20I" : 68,
+               "FC":88,
+               "lisrA": 133,
+               "T20s": 249
+             },
+             {
+               "FORMATE" : "50s/100s",
+               "TEST" : "1/0",
+               "ODI" :  " ",
+               "T20I" :  "13/",
+               "FC":   "366/67",
+               "lisrA":  "395/89",
+               "T20s":  "545/89"
+             },
+             {
+               "FORMATE" : "4s/6s",
+               "TEST" : "6/1",
+               "ODI" : "10/4",
+               "T20I" : "52/39",
+               "FC": "338/74",
+               "lisrA":  "178/75",
+               "T20s":  "304/27"
+             }
+         ],
+         "bowlling" : [
+           {
+             "FORMATE" : "Matches",
+             "TEST" :34,
+             "ODI" : 56,
+             "T20I" : 68,
+             "FC":88,
+             "lisrA": 133,
+             "T20s": 249
+           },
+           {
+            "FORMATE" : "Innings",
+            "TEST" : "-",
+            "ODI" :  56,
+            "T20I" : 68,
+            "FC":88,
+            "lisrA": 133,
+            "T20s": 249
+          },
+          {
+            "FORMATE" : "Rec.Form",
+            "TEST" :34,
+            "ODI" : 56,
+            "T20I" : 68,
+            "FC":88,
+            "lisrA": 133,
+            "T20s": 249
+          },
+          {
+            "FORMATE" : "Balls",
+            "TEST" :34,
+            "ODI" : 56,
+            "T20I" : 68,
+            "FC":88,
+            "lisrA": 133,
+            "T20s": 249
+          },
+          {
+            "FORMATE" : "Wicket",
+            "TEST" :34,
+            "ODI" : 56,
+            "T20I" : 68,
+            "FC":88,
+            "lisrA": 133,
+            "T20s": 249
+          },
+          {
+            "FORMATE" : "Economy",
+            "TEST" :34,
+            "ODI" : 56,
+            "T20I" : 68,
+            "FC":88,
+            "lisrA": 133,
+            "T20s": 249
+          },
+          {
+            "FORMATE" : "Bowl S/R",
+            "TEST" : "1/0",
+            "ODI" :  " ",
+            "T20I" :  "13/",
+            "FC":   "366/67",
+            "lisrA":  "395/89",
+            "T20s":  "545/89"
+          },
+          {
+            "FORMATE" : "5s",
+            "TEST" :  "-",
+            "ODI" : "2",
+            "T20I" : "2",
+            "FC": "3",
+            "lisrA":  "2",
+            "T20s":  "1"
+          }
+      ]
           },
           {
             "id" : 4,
             "name":"Ravindra Jadeja",
             "image":"https://images.cricket.com/players/3850_headshot_safari.png",
             "country": "INDIA",
-            "logo": "https://seeklogo.com/images/I/Indian_Flag-logo-19B702FA68-seeklogo.com.png"
+            "logo": "https://seeklogo.com/images/I/Indian_Flag-logo-19B702FA68-seeklogo.com.png",
+            "batting" : [
+              {
+                "FORMATE" : "Matches",
+                "TEST" :34,
+                "ODI" : 56,
+                "T20I" : 68,
+                "FC":88,
+                "lisrA": 133,
+                "T20s": 249
+              },
+              {
+               "FORMATE" : "Innings",
+               "TEST" :34,
+               "ODI" : 56,
+               "T20I" : 68,
+               "FC":88,
+               "lisrA": 133,
+               "T20s": 249
+             },
+             {
+               "FORMATE" : "Rec.Form",
+               "TEST" :34,
+               "ODI" : 56,
+               "T20I" : 68,
+               "FC":88,
+               "lisrA": 133,
+               "T20s": 249
+             },
+             {
+               "FORMATE" : "Runs",
+               "TEST" :34,
+               "ODI" : 56,
+               "T20I" : 68,
+               "FC":88,
+               "lisrA": 133,
+               "T20s": 249
+             },
+             {
+               "FORMATE" : "Bat S/R",
+               "TEST" :34,
+               "ODI" : 56,
+               "T20I" : 68,
+               "FC":88,
+               "lisrA": 133,
+               "T20s": 249
+             },
+             {
+               "FORMATE" : "Average",
+               "TEST" :34,
+               "ODI" : 56,
+               "T20I" : 68,
+               "FC":88,
+               "lisrA": 133,
+               "T20s": 249
+             },
+             {
+               "FORMATE" : "50s/100s",
+               "TEST" : "1/0",
+               "ODI" :  " ",
+               "T20I" :  "13/",
+               "FC":   "366/67",
+               "lisrA":  "395/89",
+               "T20s":  "545/89"
+             },
+             {
+               "FORMATE" : "4s/6s",
+               "TEST" : "6/1",
+               "ODI" : "10/4",
+               "T20I" : "52/39",
+               "FC": "338/74",
+               "lisrA":  "178/75",
+               "T20s":  "304/27"
+             }
+         ],
+         "bowlling" : [
+           {
+             "FORMATE" : "Matches",
+             "TEST" :34,
+             "ODI" : 56,
+             "T20I" : 68,
+             "FC":88,
+             "lisrA": 133,
+             "T20s": 249
+           },
+           {
+            "FORMATE" : "Innings",
+            "TEST" : "-",
+            "ODI" :  56,
+            "T20I" : 68,
+            "FC":88,
+            "lisrA": 133,
+            "T20s": 249
+          },
+          {
+            "FORMATE" : "Rec.Form",
+            "TEST" :34,
+            "ODI" : 56,
+            "T20I" : 68,
+            "FC":88,
+            "lisrA": 133,
+            "T20s": 249
+          },
+          {
+            "FORMATE" : "Balls",
+            "TEST" :34,
+            "ODI" : 56,
+            "T20I" : 68,
+            "FC":88,
+            "lisrA": 133,
+            "T20s": 249
+          },
+          {
+            "FORMATE" : "Wicket",
+            "TEST" :34,
+            "ODI" : 56,
+            "T20I" : 68,
+            "FC":88,
+            "lisrA": 133,
+            "T20s": 249
+          },
+          {
+            "FORMATE" : "Economy",
+            "TEST" :34,
+            "ODI" : 56,
+            "T20I" : 68,
+            "FC":88,
+            "lisrA": 133,
+            "T20s": 249
+          },
+          {
+            "FORMATE" : "Bowl S/R",
+            "TEST" : "1/0",
+            "ODI" :  " ",
+            "T20I" :  "13/",
+            "FC":   "366/67",
+            "lisrA":  "395/89",
+            "T20s":  "545/89"
+          },
+          {
+            "FORMATE" : "5s",
+            "TEST" :  "-",
+            "ODI" : "2",
+            "T20I" : "2",
+            "FC": "3",
+            "lisrA":  "2",
+            "T20s":  "1"
+          }
+      ]
           },
           {
             "id" : 5,
             "name":"Mohammed Siraj",
             "image":"https://images.cricket.com/players/65799_actionshot_safari.jpg",
             "country": "INDIA",
-            "logo": "https://seeklogo.com/images/I/Indian_Flag-logo-19B702FA68-seeklogo.com.png"
+            "logo": "https://seeklogo.com/images/I/Indian_Flag-logo-19B702FA68-seeklogo.com.png",
+            "batting" : [
+              {
+                "FORMATE" : "Matches",
+                "TEST" :34,
+                "ODI" : 56,
+                "T20I" : 68,
+                "FC":88,
+                "lisrA": 133,
+                "T20s": 249
+              },
+              {
+               "FORMATE" : "Innings",
+               "TEST" :34,
+               "ODI" : 56,
+               "T20I" : 68,
+               "FC":88,
+               "lisrA": 133,
+               "T20s": 249
+             },
+             {
+               "FORMATE" : "Rec.Form",
+               "TEST" :34,
+               "ODI" : 56,
+               "T20I" : 68,
+               "FC":88,
+               "lisrA": 133,
+               "T20s": 249
+             },
+             {
+               "FORMATE" : "Runs",
+               "TEST" :34,
+               "ODI" : 56,
+               "T20I" : 68,
+               "FC":88,
+               "lisrA": 133,
+               "T20s": 249
+             },
+             {
+               "FORMATE" : "Bat S/R",
+               "TEST" :34,
+               "ODI" : 56,
+               "T20I" : 68,
+               "FC":88,
+               "lisrA": 133,
+               "T20s": 249
+             },
+             {
+               "FORMATE" : "Average",
+               "TEST" :34,
+               "ODI" : 56,
+               "T20I" : 68,
+               "FC":88,
+               "lisrA": 133,
+               "T20s": 249
+             },
+             {
+               "FORMATE" : "50s/100s",
+               "TEST" : "1/0",
+               "ODI" :  " ",
+               "T20I" :  "13/",
+               "FC":   "366/67",
+               "lisrA":  "395/89",
+               "T20s":  "545/89"
+             },
+             {
+               "FORMATE" : "4s/6s",
+               "TEST" : "6/1",
+               "ODI" : "10/4",
+               "T20I" : "52/39",
+               "FC": "338/74",
+               "lisrA":  "178/75",
+               "T20s":  "304/27"
+             }
+         ],
+         "bowlling" : [
+           {
+             "FORMATE" : "Matches",
+             "TEST" :34,
+             "ODI" : 56,
+             "T20I" : 68,
+             "FC":88,
+             "lisrA": 133,
+             "T20s": 249
+           },
+           {
+            "FORMATE" : "Innings",
+            "TEST" : "-",
+            "ODI" :  56,
+            "T20I" : 68,
+            "FC":88,
+            "lisrA": 133,
+            "T20s": 249
+          },
+          {
+            "FORMATE" : "Rec.Form",
+            "TEST" :34,
+            "ODI" : 56,
+            "T20I" : 68,
+            "FC":88,
+            "lisrA": 133,
+            "T20s": 249
+          },
+          {
+            "FORMATE" : "Balls",
+            "TEST" :34,
+            "ODI" : 56,
+            "T20I" : 68,
+            "FC":88,
+            "lisrA": 133,
+            "T20s": 249
+          },
+          {
+            "FORMATE" : "Wicket",
+            "TEST" :34,
+            "ODI" : 56,
+            "T20I" : 68,
+            "FC":88,
+            "lisrA": 133,
+            "T20s": 249
+          },
+          {
+            "FORMATE" : "Economy",
+            "TEST" :34,
+            "ODI" : 56,
+            "T20I" : 68,
+            "FC":88,
+            "lisrA": 133,
+            "T20s": 249
+          },
+          {
+            "FORMATE" : "Bowl S/R",
+            "TEST" : "1/0",
+            "ODI" :  " ",
+            "T20I" :  "13/",
+            "FC":   "366/67",
+            "lisrA":  "395/89",
+            "T20s":  "545/89"
+          },
+          {
+            "FORMATE" : "5s",
+            "TEST" :  "-",
+            "ODI" : "2",
+            "T20I" : "2",
+            "FC": "3",
+            "lisrA":  "2",
+            "T20s":  "1"
+          }
+      ]
           },
           {
             "id" : 6,
             "name":"Suryakumar Yadav",
             "image":"https://images.cricket.com/players/11803_headshot_safari.png",
             "country": "INDIA",
-            "logo": "https://seeklogo.com/images/I/Indian_Flag-logo-19B702FA68-seeklogo.com.png"
+            "logo": "https://seeklogo.com/images/I/Indian_Flag-logo-19B702FA68-seeklogo.com.png",
+            "batting" : [
+              {
+                "FORMATE" : "Matches",
+                "TEST" :34,
+                "ODI" : 56,
+                "T20I" : 68,
+                "FC":88,
+                "lisrA": 133,
+                "T20s": 249
+              },
+              {
+               "FORMATE" : "Innings",
+               "TEST" :34,
+               "ODI" : 56,
+               "T20I" : 68,
+               "FC":88,
+               "lisrA": 133,
+               "T20s": 249
+             },
+             {
+               "FORMATE" : "Rec.Form",
+               "TEST" :34,
+               "ODI" : 56,
+               "T20I" : 68,
+               "FC":88,
+               "lisrA": 133,
+               "T20s": 249
+             },
+             {
+               "FORMATE" : "Runs",
+               "TEST" :34,
+               "ODI" : 56,
+               "T20I" : 68,
+               "FC":88,
+               "lisrA": 133,
+               "T20s": 249
+             },
+             {
+               "FORMATE" : "Bat S/R",
+               "TEST" :34,
+               "ODI" : 56,
+               "T20I" : 68,
+               "FC":88,
+               "lisrA": 133,
+               "T20s": 249
+             },
+             {
+               "FORMATE" : "Average",
+               "TEST" :34,
+               "ODI" : 56,
+               "T20I" : 68,
+               "FC":88,
+               "lisrA": 133,
+               "T20s": 249
+             },
+             {
+               "FORMATE" : "50s/100s",
+               "TEST" : "1/0",
+               "ODI" :  " ",
+               "T20I" :  "13/",
+               "FC":   "366/67",
+               "lisrA":  "395/89",
+               "T20s":  "545/89"
+             },
+             {
+               "FORMATE" : "4s/6s",
+               "TEST" : "6/1",
+               "ODI" : "10/4",
+               "T20I" : "52/39",
+               "FC": "338/74",
+               "lisrA":  "178/75",
+               "T20s":  "304/27"
+             }
+         ],
+         "bowlling" : [
+           {
+             "FORMATE" : "Matches",
+             "TEST" :34,
+             "ODI" : 56,
+             "T20I" : 68,
+             "FC":88,
+             "lisrA": 133,
+             "T20s": 249
+           },
+           {
+            "FORMATE" : "Innings",
+            "TEST" : "-",
+            "ODI" :  56,
+            "T20I" : 68,
+            "FC":88,
+            "lisrA": 133,
+            "T20s": 249
+          },
+          {
+            "FORMATE" : "Rec.Form",
+            "TEST" :34,
+            "ODI" : 56,
+            "T20I" : 68,
+            "FC":88,
+            "lisrA": 133,
+            "T20s": 249
+          },
+          {
+            "FORMATE" : "Balls",
+            "TEST" :34,
+            "ODI" : 56,
+            "T20I" : 68,
+            "FC":88,
+            "lisrA": 133,
+            "T20s": 249
+          },
+          {
+            "FORMATE" : "Wicket",
+            "TEST" :34,
+            "ODI" : 56,
+            "T20I" : 68,
+            "FC":88,
+            "lisrA": 133,
+            "T20s": 249
+          },
+          {
+            "FORMATE" : "Economy",
+            "TEST" :34,
+            "ODI" : 56,
+            "T20I" : 68,
+            "FC":88,
+            "lisrA": 133,
+            "T20s": 249
+          },
+          {
+            "FORMATE" : "Bowl S/R",
+            "TEST" : "1/0",
+            "ODI" :  " ",
+            "T20I" :  "13/",
+            "FC":   "366/67",
+            "lisrA":  "395/89",
+            "T20s":  "545/89"
+          },
+          {
+            "FORMATE" : "5s",
+            "TEST" :  "-",
+            "ODI" : "2",
+            "T20I" : "2",
+            "FC": "3",
+            "lisrA":  "2",
+            "T20s":  "1"
+          }
+      ]
           },
           {
             "id" : 7,
             "name":"Sanju Samson",
             "image":"https://images.cricket.com/players/61837_headshot_safari.png",
             "country": "INDIA",
-            "logo": "https://seeklogo.com/images/I/Indian_Flag-logo-19B702FA68-seeklogo.com.png"
+            "logo": "https://seeklogo.com/images/I/Indian_Flag-logo-19B702FA68-seeklogo.com.png",
+            "batting" : [
+              {
+                "FORMATE" : "Matches",
+                "TEST" :34,
+                "ODI" : 56,
+                "T20I" : 68,
+                "FC":88,
+                "lisrA": 133,
+                "T20s": 249
+              },
+              {
+               "FORMATE" : "Innings",
+               "TEST" :34,
+               "ODI" : 56,
+               "T20I" : 68,
+               "FC":88,
+               "lisrA": 133,
+               "T20s": 249
+             },
+             {
+               "FORMATE" : "Rec.Form",
+               "TEST" :34,
+               "ODI" : 56,
+               "T20I" : 68,
+               "FC":88,
+               "lisrA": 133,
+               "T20s": 249
+             },
+             {
+               "FORMATE" : "Runs",
+               "TEST" :34,
+               "ODI" : 56,
+               "T20I" : 68,
+               "FC":88,
+               "lisrA": 133,
+               "T20s": 249
+             },
+             {
+               "FORMATE" : "Bat S/R",
+               "TEST" :34,
+               "ODI" : 56,
+               "T20I" : 68,
+               "FC":88,
+               "lisrA": 133,
+               "T20s": 249
+             },
+             {
+               "FORMATE" : "Average",
+               "TEST" :34,
+               "ODI" : 56,
+               "T20I" : 68,
+               "FC":88,
+               "lisrA": 133,
+               "T20s": 249
+             },
+             {
+               "FORMATE" : "50s/100s",
+               "TEST" : "1/0",
+               "ODI" :  " ",
+               "T20I" :  "13/",
+               "FC":   "366/67",
+               "lisrA":  "395/89",
+               "T20s":  "545/89"
+             },
+             {
+               "FORMATE" : "4s/6s",
+               "TEST" : "6/1",
+               "ODI" : "10/4",
+               "T20I" : "52/39",
+               "FC": "338/74",
+               "lisrA":  "178/75",
+               "T20s":  "304/27"
+             }
+         ],
+         "bowlling" : [
+           {
+             "FORMATE" : "Matches",
+             "TEST" :34,
+             "ODI" : 56,
+             "T20I" : 68,
+             "FC":88,
+             "lisrA": 133,
+             "T20s": 249
+           },
+           {
+            "FORMATE" : "Innings",
+            "TEST" : "-",
+            "ODI" :  56,
+            "T20I" : 68,
+            "FC":88,
+            "lisrA": 133,
+            "T20s": 249
+          },
+          {
+            "FORMATE" : "Rec.Form",
+            "TEST" :34,
+            "ODI" : 56,
+            "T20I" : 68,
+            "FC":88,
+            "lisrA": 133,
+            "T20s": 249
+          },
+          {
+            "FORMATE" : "Balls",
+            "TEST" :34,
+            "ODI" : 56,
+            "T20I" : 68,
+            "FC":88,
+            "lisrA": 133,
+            "T20s": 249
+          },
+          {
+            "FORMATE" : "Wicket",
+            "TEST" :34,
+            "ODI" : 56,
+            "T20I" : 68,
+            "FC":88,
+            "lisrA": 133,
+            "T20s": 249
+          },
+          {
+            "FORMATE" : "Economy",
+            "TEST" :34,
+            "ODI" : 56,
+            "T20I" : 68,
+            "FC":88,
+            "lisrA": 133,
+            "T20s": 249
+          },
+          {
+            "FORMATE" : "Bowl S/R",
+            "TEST" : "1/0",
+            "ODI" :  " ",
+            "T20I" :  "13/",
+            "FC":   "366/67",
+            "lisrA":  "395/89",
+            "T20s":  "545/89"
+          },
+          {
+            "FORMATE" : "5s",
+            "TEST" :  "-",
+            "ODI" : "2",
+            "T20I" : "2",
+            "FC": "3",
+            "lisrA":  "2",
+            "T20s":  "1"
+          }
+      ]
           },
           {
             "id" : 8,
             "name":"Cameron Green",
             "image":"https://images.cricket.com/players/66870_headshot_safari.png",
             "country": "AUSTRALIA",
-            "logo": "https://image.shutterstock.com/image-illustration/crumpled-fabric-flag-australia-intro-600w-1934834207.jpg"
+            "logo": "https://image.shutterstock.com/image-illustration/crumpled-fabric-flag-australia-intro-600w-1934834207.jpg",
+            "batting" : [
+              {
+                "FORMATE" : "Matches",
+                "TEST" :34,
+                "ODI" : 56,
+                "T20I" : 68,
+                "FC":88,
+                "lisrA": 133,
+                "T20s": 249
+              },
+              {
+               "FORMATE" : "Innings",
+               "TEST" :34,
+               "ODI" : 56,
+               "T20I" : 68,
+               "FC":88,
+               "lisrA": 133,
+               "T20s": 249
+             },
+             {
+               "FORMATE" : "Rec.Form",
+               "TEST" :34,
+               "ODI" : 56,
+               "T20I" : 68,
+               "FC":88,
+               "lisrA": 133,
+               "T20s": 249
+             },
+             {
+               "FORMATE" : "Runs",
+               "TEST" :34,
+               "ODI" : 56,
+               "T20I" : 68,
+               "FC":88,
+               "lisrA": 133,
+               "T20s": 249
+             },
+             {
+               "FORMATE" : "Bat S/R",
+               "TEST" :34,
+               "ODI" : 56,
+               "T20I" : 68,
+               "FC":88,
+               "lisrA": 133,
+               "T20s": 249
+             },
+             {
+               "FORMATE" : "Average",
+               "TEST" :34,
+               "ODI" : 56,
+               "T20I" : 68,
+               "FC":88,
+               "lisrA": 133,
+               "T20s": 249
+             },
+             {
+               "FORMATE" : "50s/100s",
+               "TEST" : "1/0",
+               "ODI" :  " ",
+               "T20I" :  "13/",
+               "FC":   "366/67",
+               "lisrA":  "395/89",
+               "T20s":  "545/89"
+             },
+             {
+               "FORMATE" : "4s/6s",
+               "TEST" : "6/1",
+               "ODI" : "10/4",
+               "T20I" : "52/39",
+               "FC": "338/74",
+               "lisrA":  "178/75",
+               "T20s":  "304/27"
+             }
+         ],
+         "bowlling" : [
+           {
+             "FORMATE" : "Matches",
+             "TEST" :34,
+             "ODI" : 56,
+             "T20I" : 68,
+             "FC":88,
+             "lisrA": 133,
+             "T20s": 249
+           },
+           {
+            "FORMATE" : "Innings",
+            "TEST" : "-",
+            "ODI" :  56,
+            "T20I" : 68,
+            "FC":88,
+            "lisrA": 133,
+            "T20s": 249
+          },
+          {
+            "FORMATE" : "Rec.Form",
+            "TEST" :34,
+            "ODI" : 56,
+            "T20I" : 68,
+            "FC":88,
+            "lisrA": 133,
+            "T20s": 249
+          },
+          {
+            "FORMATE" : "Balls",
+            "TEST" :34,
+            "ODI" : 56,
+            "T20I" : 68,
+            "FC":88,
+            "lisrA": 133,
+            "T20s": 249
+          },
+          {
+            "FORMATE" : "Wicket",
+            "TEST" :34,
+            "ODI" : 56,
+            "T20I" : 68,
+            "FC":88,
+            "lisrA": 133,
+            "T20s": 249
+          },
+          {
+            "FORMATE" : "Economy",
+            "TEST" :34,
+            "ODI" : 56,
+            "T20I" : 68,
+            "FC":88,
+            "lisrA": 133,
+            "T20s": 249
+          },
+          {
+            "FORMATE" : "Bowl S/R",
+            "TEST" : "1/0",
+            "ODI" :  " ",
+            "T20I" :  "13/",
+            "FC":   "366/67",
+            "lisrA":  "395/89",
+            "T20s":  "545/89"
+          },
+          {
+            "FORMATE" : "5s",
+            "TEST" :  "-",
+            "ODI" : "2",
+            "T20I" : "2",
+            "FC": "3",
+            "lisrA":  "2",
+            "T20s":  "1"
+          }
+      ]
           },
           {
             "id" : 9,
             "name":"Adam Zampa",
             "image":"https://images.cricket.com/players/58913_actionshot_safari.jpg",
             "country": "AUSTRALIA",
-            "logo": "https://image.shutterstock.com/image-illustration/crumpled-fabric-flag-australia-intro-600w-1934834207.jpg"
+            "logo": "https://image.shutterstock.com/image-illustration/crumpled-fabric-flag-australia-intro-600w-1934834207.jpg",
+            "batting" : [
+              {
+                "FORMATE" : "Matches",
+                "TEST" :34,
+                "ODI" : 56,
+                "T20I" : 68,
+                "FC":88,
+                "lisrA": 133,
+                "T20s": 249
+              },
+              {
+               "FORMATE" : "Innings",
+               "TEST" :34,
+               "ODI" : 56,
+               "T20I" : 68,
+               "FC":88,
+               "lisrA": 133,
+               "T20s": 249
+             },
+             {
+               "FORMATE" : "Rec.Form",
+               "TEST" :34,
+               "ODI" : 56,
+               "T20I" : 68,
+               "FC":88,
+               "lisrA": 133,
+               "T20s": 249
+             },
+             {
+               "FORMATE" : "Runs",
+               "TEST" :34,
+               "ODI" : 56,
+               "T20I" : 68,
+               "FC":88,
+               "lisrA": 133,
+               "T20s": 249
+             },
+             {
+               "FORMATE" : "Bat S/R",
+               "TEST" :34,
+               "ODI" : 56,
+               "T20I" : 68,
+               "FC":88,
+               "lisrA": 133,
+               "T20s": 249
+             },
+             {
+               "FORMATE" : "Average",
+               "TEST" :34,
+               "ODI" : 56,
+               "T20I" : 68,
+               "FC":88,
+               "lisrA": 133,
+               "T20s": 249
+             },
+             {
+               "FORMATE" : "50s/100s",
+               "TEST" : "1/0",
+               "ODI" :  " ",
+               "T20I" :  "13/",
+               "FC":   "366/67",
+               "lisrA":  "395/89",
+               "T20s":  "545/89"
+             },
+             {
+               "FORMATE" : "4s/6s",
+               "TEST" : "6/1",
+               "ODI" : "10/4",
+               "T20I" : "52/39",
+               "FC": "338/74",
+               "lisrA":  "178/75",
+               "T20s":  "304/27"
+             }
+         ],
+         "bowlling" : [
+           {
+             "FORMATE" : "Matches",
+             "TEST" :34,
+             "ODI" : 56,
+             "T20I" : 68,
+             "FC":88,
+             "lisrA": 133,
+             "T20s": 249
+           },
+           {
+            "FORMATE" : "Innings",
+            "TEST" : "-",
+            "ODI" :  56,
+            "T20I" : 68,
+            "FC":88,
+            "lisrA": 133,
+            "T20s": 249
+          },
+          {
+            "FORMATE" : "Rec.Form",
+            "TEST" :34,
+            "ODI" : 56,
+            "T20I" : 68,
+            "FC":88,
+            "lisrA": 133,
+            "T20s": 249
+          },
+          {
+            "FORMATE" : "Balls",
+            "TEST" :34,
+            "ODI" : 56,
+            "T20I" : 68,
+            "FC":88,
+            "lisrA": 133,
+            "T20s": 249
+          },
+          {
+            "FORMATE" : "Wicket",
+            "TEST" :34,
+            "ODI" : 56,
+            "T20I" : 68,
+            "FC":88,
+            "lisrA": 133,
+            "T20s": 249
+          },
+          {
+            "FORMATE" : "Economy",
+            "TEST" :34,
+            "ODI" : 56,
+            "T20I" : 68,
+            "FC":88,
+            "lisrA": 133,
+            "T20s": 249
+          },
+          {
+            "FORMATE" : "Bowl S/R",
+            "TEST" : "1/0",
+            "ODI" :  " ",
+            "T20I" :  "13/",
+            "FC":   "366/67",
+            "lisrA":  "395/89",
+            "T20s":  "545/89"
+          },
+          {
+            "FORMATE" : "5s",
+            "TEST" :  "-",
+            "ODI" : "2",
+            "T20I" : "2",
+            "FC": "3",
+            "lisrA":  "2",
+            "T20s":  "1"
+          }
+      ]
           },
           {
             "id" : 10,
             "name":"Mitchell Marsh",
             "image":"https://images.cricket.com/players/10094_headshot_safari.png",
             "country": "AUSTRALIA",
-            "logo": "https://image.shutterstock.com/image-illustration/crumpled-fabric-flag-australia-intro-600w-1934834207.jpg"
+            "logo": "https://image.shutterstock.com/image-illustration/crumpled-fabric-flag-australia-intro-600w-1934834207.jpg",
+            "batting" : [
+              {
+                "FORMATE" : "Matches",
+                "TEST" :34,
+                "ODI" : 56,
+                "T20I" : 68,
+                "FC":88,
+                "lisrA": 133,
+                "T20s": 249
+              },
+              {
+               "FORMATE" : "Innings",
+               "TEST" :34,
+               "ODI" : 56,
+               "T20I" : 68,
+               "FC":88,
+               "lisrA": 133,
+               "T20s": 249
+             },
+             {
+               "FORMATE" : "Rec.Form",
+               "TEST" :34,
+               "ODI" : 56,
+               "T20I" : 68,
+               "FC":88,
+               "lisrA": 133,
+               "T20s": 249
+             },
+             {
+               "FORMATE" : "Runs",
+               "TEST" :34,
+               "ODI" : 56,
+               "T20I" : 68,
+               "FC":88,
+               "lisrA": 133,
+               "T20s": 249
+             },
+             {
+               "FORMATE" : "Bat S/R",
+               "TEST" :34,
+               "ODI" : 56,
+               "T20I" : 68,
+               "FC":88,
+               "lisrA": 133,
+               "T20s": 249
+             },
+             {
+               "FORMATE" : "Average",
+               "TEST" :34,
+               "ODI" : 56,
+               "T20I" : 68,
+               "FC":88,
+               "lisrA": 133,
+               "T20s": 249
+             },
+             {
+               "FORMATE" : "50s/100s",
+               "TEST" : "1/0",
+               "ODI" :  " ",
+               "T20I" :  "13/",
+               "FC":   "366/67",
+               "lisrA":  "395/89",
+               "T20s":  "545/89"
+             },
+             {
+               "FORMATE" : "4s/6s",
+               "TEST" : "6/1",
+               "ODI" : "10/4",
+               "T20I" : "52/39",
+               "FC": "338/74",
+               "lisrA":  "178/75",
+               "T20s":  "304/27"
+             }
+         ],
+         "bowlling" : [
+           {
+             "FORMATE" : "Matches",
+             "TEST" :34,
+             "ODI" : 56,
+             "T20I" : 68,
+             "FC":88,
+             "lisrA": 133,
+             "T20s": 249
+           },
+           {
+            "FORMATE" : "Innings",
+            "TEST" : "-",
+            "ODI" :  56,
+            "T20I" : 68,
+            "FC":88,
+            "lisrA": 133,
+            "T20s": 249
+          },
+          {
+            "FORMATE" : "Rec.Form",
+            "TEST" :34,
+            "ODI" : 56,
+            "T20I" : 68,
+            "FC":88,
+            "lisrA": 133,
+            "T20s": 249
+          },
+          {
+            "FORMATE" : "Balls",
+            "TEST" :34,
+            "ODI" : 56,
+            "T20I" : 68,
+            "FC":88,
+            "lisrA": 133,
+            "T20s": 249
+          },
+          {
+            "FORMATE" : "Wicket",
+            "TEST" :34,
+            "ODI" : 56,
+            "T20I" : 68,
+            "FC":88,
+            "lisrA": 133,
+            "T20s": 249
+          },
+          {
+            "FORMATE" : "Economy",
+            "TEST" :34,
+            "ODI" : 56,
+            "T20I" : 68,
+            "FC":88,
+            "lisrA": 133,
+            "T20s": 249
+          },
+          {
+            "FORMATE" : "Bowl S/R",
+            "TEST" : "1/0",
+            "ODI" :  " ",
+            "T20I" :  "13/",
+            "FC":   "366/67",
+            "lisrA":  "395/89",
+            "T20s":  "545/89"
+          },
+          {
+            "FORMATE" : "5s",
+            "TEST" :  "-",
+            "ODI" : "2",
+            "T20I" : "2",
+            "FC": "3",
+            "lisrA":  "2",
+            "T20s":  "1"
+          }
+      ]
           },
           {
             "id" : 11,
             "name":"Steven Smith",
             "image":"https://images.cricket.com/players/4308_headshot_safari.png",
             "country": "AUSTRALIA",
-            "logo": "https://image.shutterstock.com/image-illustration/crumpled-fabric-flag-australia-intro-600w-1934834207.jpg"
+            "logo": "https://image.shutterstock.com/image-illustration/crumpled-fabric-flag-australia-intro-600w-1934834207.jpg",
+            "batting" : [
+              {
+                "FORMATE" : "Matches",
+                "TEST" :34,
+                "ODI" : 56,
+                "T20I" : 68,
+                "FC":88,
+                "lisrA": 133,
+                "T20s": 249
+              },
+              {
+               "FORMATE" : "Innings",
+               "TEST" :34,
+               "ODI" : 56,
+               "T20I" : 68,
+               "FC":88,
+               "lisrA": 133,
+               "T20s": 249
+             },
+             {
+               "FORMATE" : "Rec.Form",
+               "TEST" :34,
+               "ODI" : 56,
+               "T20I" : 68,
+               "FC":88,
+               "lisrA": 133,
+               "T20s": 249
+             },
+             {
+               "FORMATE" : "Runs",
+               "TEST" :34,
+               "ODI" : 56,
+               "T20I" : 68,
+               "FC":88,
+               "lisrA": 133,
+               "T20s": 249
+             },
+             {
+               "FORMATE" : "Bat S/R",
+               "TEST" :34,
+               "ODI" : 56,
+               "T20I" : 68,
+               "FC":88,
+               "lisrA": 133,
+               "T20s": 249
+             },
+             {
+               "FORMATE" : "Average",
+               "TEST" :34,
+               "ODI" : 56,
+               "T20I" : 68,
+               "FC":88,
+               "lisrA": 133,
+               "T20s": 249
+             },
+             {
+               "FORMATE" : "50s/100s",
+               "TEST" : "1/0",
+               "ODI" :  " ",
+               "T20I" :  "13/",
+               "FC":   "366/67",
+               "lisrA":  "395/89",
+               "T20s":  "545/89"
+             },
+             {
+               "FORMATE" : "4s/6s",
+               "TEST" : "6/1",
+               "ODI" : "10/4",
+               "T20I" : "52/39",
+               "FC": "338/74",
+               "lisrA":  "178/75",
+               "T20s":  "304/27"
+             }
+         ],
+         "bowlling" : [
+           {
+             "FORMATE" : "Matches",
+             "TEST" :34,
+             "ODI" : 56,
+             "T20I" : 68,
+             "FC":88,
+             "lisrA": 133,
+             "T20s": 249
+           },
+           {
+            "FORMATE" : "Innings",
+            "TEST" : "-",
+            "ODI" :  56,
+            "T20I" : 68,
+            "FC":88,
+            "lisrA": 133,
+            "T20s": 249
+          },
+          {
+            "FORMATE" : "Rec.Form",
+            "TEST" :34,
+            "ODI" : 56,
+            "T20I" : 68,
+            "FC":88,
+            "lisrA": 133,
+            "T20s": 249
+          },
+          {
+            "FORMATE" : "Balls",
+            "TEST" :34,
+            "ODI" : 56,
+            "T20I" : 68,
+            "FC":88,
+            "lisrA": 133,
+            "T20s": 249
+          },
+          {
+            "FORMATE" : "Wicket",
+            "TEST" :34,
+            "ODI" : 56,
+            "T20I" : 68,
+            "FC":88,
+            "lisrA": 133,
+            "T20s": 249
+          },
+          {
+            "FORMATE" : "Economy",
+            "TEST" :34,
+            "ODI" : 56,
+            "T20I" : 68,
+            "FC":88,
+            "lisrA": 133,
+            "T20s": 249
+          },
+          {
+            "FORMATE" : "Bowl S/R",
+            "TEST" : "1/0",
+            "ODI" :  " ",
+            "T20I" :  "13/",
+            "FC":   "366/67",
+            "lisrA":  "395/89",
+            "T20s":  "545/89"
+          },
+          {
+            "FORMATE" : "5s",
+            "TEST" :  "-",
+            "ODI" : "2",
+            "T20I" : "2",
+            "FC": "3",
+            "lisrA":  "2",
+            "T20s":  "1"
+          }
+      ]
           },
           {
             "id" : 12,
             "name":"David Warner",
             "image":"https://images.cricket.com/players/5380_headshot_safari.png",
             "country": "AUSTRALIA",
-            "logo": "https://image.shutterstock.com/image-illustration/crumpled-fabric-flag-australia-intro-600w-1934834207.jpg"
+            "logo": "https://image.shutterstock.com/image-illustration/crumpled-fabric-flag-australia-intro-600w-1934834207.jpg",
+            "batting" : [
+              {
+                "FORMATE" : "Matches",
+                "TEST" :34,
+                "ODI" : 56,
+                "T20I" : 68,
+                "FC":88,
+                "lisrA": 133,
+                "T20s": 249
+              },
+              {
+               "FORMATE" : "Innings",
+               "TEST" :34,
+               "ODI" : 56,
+               "T20I" : 68,
+               "FC":88,
+               "lisrA": 133,
+               "T20s": 249
+             },
+             {
+               "FORMATE" : "Rec.Form",
+               "TEST" :34,
+               "ODI" : 56,
+               "T20I" : 68,
+               "FC":88,
+               "lisrA": 133,
+               "T20s": 249
+             },
+             {
+               "FORMATE" : "Runs",
+               "TEST" :34,
+               "ODI" : 56,
+               "T20I" : 68,
+               "FC":88,
+               "lisrA": 133,
+               "T20s": 249
+             },
+             {
+               "FORMATE" : "Bat S/R",
+               "TEST" :34,
+               "ODI" : 56,
+               "T20I" : 68,
+               "FC":88,
+               "lisrA": 133,
+               "T20s": 249
+             },
+             {
+               "FORMATE" : "Average",
+               "TEST" :34,
+               "ODI" : 56,
+               "T20I" : 68,
+               "FC":88,
+               "lisrA": 133,
+               "T20s": 249
+             },
+             {
+               "FORMATE" : "50s/100s",
+               "TEST" : "1/0",
+               "ODI" :  " ",
+               "T20I" :  "13/",
+               "FC":   "366/67",
+               "lisrA":  "395/89",
+               "T20s":  "545/89"
+             },
+             {
+               "FORMATE" : "4s/6s",
+               "TEST" : "6/1",
+               "ODI" : "10/4",
+               "T20I" : "52/39",
+               "FC": "338/74",
+               "lisrA":  "178/75",
+               "T20s":  "304/27"
+             }
+         ],
+         "bowlling" : [
+           {
+             "FORMATE" : "Matches",
+             "TEST" :34,
+             "ODI" : 56,
+             "T20I" : 68,
+             "FC":88,
+             "lisrA": 133,
+             "T20s": 249
+           },
+           {
+            "FORMATE" : "Innings",
+            "TEST" : "-",
+            "ODI" :  56,
+            "T20I" : 68,
+            "FC":88,
+            "lisrA": 133,
+            "T20s": 249
+          },
+          {
+            "FORMATE" : "Rec.Form",
+            "TEST" :34,
+            "ODI" : 56,
+            "T20I" : 68,
+            "FC":88,
+            "lisrA": 133,
+            "T20s": 249
+          },
+          {
+            "FORMATE" : "Balls",
+            "TEST" :34,
+            "ODI" : 56,
+            "T20I" : 68,
+            "FC":88,
+            "lisrA": 133,
+            "T20s": 249
+          },
+          {
+            "FORMATE" : "Wicket",
+            "TEST" :34,
+            "ODI" : 56,
+            "T20I" : 68,
+            "FC":88,
+            "lisrA": 133,
+            "T20s": 249
+          },
+          {
+            "FORMATE" : "Economy",
+            "TEST" :34,
+            "ODI" : 56,
+            "T20I" : 68,
+            "FC":88,
+            "lisrA": 133,
+            "T20s": 249
+          },
+          {
+            "FORMATE" : "Bowl S/R",
+            "TEST" : "1/0",
+            "ODI" :  " ",
+            "T20I" :  "13/",
+            "FC":   "366/67",
+            "lisrA":  "395/89",
+            "T20s":  "545/89"
+          },
+          {
+            "FORMATE" : "5s",
+            "TEST" :  "-",
+            "ODI" : "2",
+            "T20I" : "2",
+            "FC": "3",
+            "lisrA":  "2",
+            "T20s":  "1"
+          }
+      ]
           },
           {
             "id" : 13,
             "name":"Marnus Labuschagne",
             "image":"https://images.cricket.com/players/65083_headshot_safari.png",
             "country": "AUSTRALIA",
-            "logo": "https://image.shutterstock.com/image-illustration/crumpled-fabric-flag-australia-intro-600w-1934834207.jpg"
+            "logo": "https://image.shutterstock.com/image-illustration/crumpled-fabric-flag-australia-intro-600w-1934834207.jpg",
+            "batting" : [
+              {
+                "FORMATE" : "Matches",
+                "TEST" :34,
+                "ODI" : 56,
+                "T20I" : 68,
+                "FC":88,
+                "lisrA": 133,
+                "T20s": 249
+              },
+              {
+               "FORMATE" : "Innings",
+               "TEST" :34,
+               "ODI" : 56,
+               "T20I" : 68,
+               "FC":88,
+               "lisrA": 133,
+               "T20s": 249
+             },
+             {
+               "FORMATE" : "Rec.Form",
+               "TEST" :34,
+               "ODI" : 56,
+               "T20I" : 68,
+               "FC":88,
+               "lisrA": 133,
+               "T20s": 249
+             },
+             {
+               "FORMATE" : "Runs",
+               "TEST" :34,
+               "ODI" : 56,
+               "T20I" : 68,
+               "FC":88,
+               "lisrA": 133,
+               "T20s": 249
+             },
+             {
+               "FORMATE" : "Bat S/R",
+               "TEST" :34,
+               "ODI" : 56,
+               "T20I" : 68,
+               "FC":88,
+               "lisrA": 133,
+               "T20s": 249
+             },
+             {
+               "FORMATE" : "Average",
+               "TEST" :34,
+               "ODI" : 56,
+               "T20I" : 68,
+               "FC":88,
+               "lisrA": 133,
+               "T20s": 249
+             },
+             {
+               "FORMATE" : "50s/100s",
+               "TEST" : "1/0",
+               "ODI" :  " ",
+               "T20I" :  "13/",
+               "FC":   "366/67",
+               "lisrA":  "395/89",
+               "T20s":  "545/89"
+             },
+             {
+               "FORMATE" : "4s/6s",
+               "TEST" : "6/1",
+               "ODI" : "10/4",
+               "T20I" : "52/39",
+               "FC": "338/74",
+               "lisrA":  "178/75",
+               "T20s":  "304/27"
+             }
+         ],
+         "bowlling" : [
+           {
+             "FORMATE" : "Matches",
+             "TEST" :34,
+             "ODI" : 56,
+             "T20I" : 68,
+             "FC":88,
+             "lisrA": 133,
+             "T20s": 249
+           },
+           {
+            "FORMATE" : "Innings",
+            "TEST" : "-",
+            "ODI" :  56,
+            "T20I" : 68,
+            "FC":88,
+            "lisrA": 133,
+            "T20s": 249
+          },
+          {
+            "FORMATE" : "Rec.Form",
+            "TEST" :34,
+            "ODI" : 56,
+            "T20I" : 68,
+            "FC":88,
+            "lisrA": 133,
+            "T20s": 249
+          },
+          {
+            "FORMATE" : "Balls",
+            "TEST" :34,
+            "ODI" : 56,
+            "T20I" : 68,
+            "FC":88,
+            "lisrA": 133,
+            "T20s": 249
+          },
+          {
+            "FORMATE" : "Wicket",
+            "TEST" :34,
+            "ODI" : 56,
+            "T20I" : 68,
+            "FC":88,
+            "lisrA": 133,
+            "T20s": 249
+          },
+          {
+            "FORMATE" : "Economy",
+            "TEST" :34,
+            "ODI" : 56,
+            "T20I" : 68,
+            "FC":88,
+            "lisrA": 133,
+            "T20s": 249
+          },
+          {
+            "FORMATE" : "Bowl S/R",
+            "TEST" : "1/0",
+            "ODI" :  " ",
+            "T20I" :  "13/",
+            "FC":   "366/67",
+            "lisrA":  "395/89",
+            "T20s":  "545/89"
+          },
+          {
+            "FORMATE" : "5s",
+            "TEST" :  "-",
+            "ODI" : "2",
+            "T20I" : "2",
+            "FC": "3",
+            "lisrA":  "2",
+            "T20s":  "1"
+          }
+      ]
           },
           {
             "id" : 14,
             "name":"Glenn Maxwell",
             "image":"https://images.cricket.com/players/10085_headshot_safari.png",
             "country": "AUSTRALIA",
-            "logo": "https://image.shutterstock.com/image-illustration/crumpled-fabric-flag-australia-intro-600w-1934834207.jpg"
+            "logo": "https://image.shutterstock.com/image-illustration/crumpled-fabric-flag-australia-intro-600w-1934834207.jpg",
+            "batting" : [
+              {
+                "FORMATE" : "Matches",
+                "TEST" :34,
+                "ODI" : 56,
+                "T20I" : 68,
+                "FC":88,
+                "lisrA": 133,
+                "T20s": 249
+              },
+              {
+               "FORMATE" : "Innings",
+               "TEST" :34,
+               "ODI" : 56,
+               "T20I" : 68,
+               "FC":88,
+               "lisrA": 133,
+               "T20s": 249
+             },
+             {
+               "FORMATE" : "Rec.Form",
+               "TEST" :34,
+               "ODI" : 56,
+               "T20I" : 68,
+               "FC":88,
+               "lisrA": 133,
+               "T20s": 249
+             },
+             {
+               "FORMATE" : "Runs",
+               "TEST" :34,
+               "ODI" : 56,
+               "T20I" : 68,
+               "FC":88,
+               "lisrA": 133,
+               "T20s": 249
+             },
+             {
+               "FORMATE" : "Bat S/R",
+               "TEST" :34,
+               "ODI" : 56,
+               "T20I" : 68,
+               "FC":88,
+               "lisrA": 133,
+               "T20s": 249
+             },
+             {
+               "FORMATE" : "Average",
+               "TEST" :34,
+               "ODI" : 56,
+               "T20I" : 68,
+               "FC":88,
+               "lisrA": 133,
+               "T20s": 249
+             },
+             {
+               "FORMATE" : "50s/100s",
+               "TEST" : "1/0",
+               "ODI" :  " ",
+               "T20I" :  "13/",
+               "FC":   "366/67",
+               "lisrA":  "395/89",
+               "T20s":  "545/89"
+             },
+             {
+               "FORMATE" : "4s/6s",
+               "TEST" : "6/1",
+               "ODI" : "10/4",
+               "T20I" : "52/39",
+               "FC": "338/74",
+               "lisrA":  "178/75",
+               "T20s":  "304/27"
+             }
+         ],
+         "bowlling" : [
+           {
+             "FORMATE" : "Matches",
+             "TEST" :34,
+             "ODI" : 56,
+             "T20I" : 68,
+             "FC":88,
+             "lisrA": 133,
+             "T20s": 249
+           },
+           {
+            "FORMATE" : "Innings",
+            "TEST" : "-",
+            "ODI" :  56,
+            "T20I" : 68,
+            "FC":88,
+            "lisrA": 133,
+            "T20s": 249
+          },
+          {
+            "FORMATE" : "Rec.Form",
+            "TEST" :34,
+            "ODI" : 56,
+            "T20I" : 68,
+            "FC":88,
+            "lisrA": 133,
+            "T20s": 249
+          },
+          {
+            "FORMATE" : "Balls",
+            "TEST" :34,
+            "ODI" : 56,
+            "T20I" : 68,
+            "FC":88,
+            "lisrA": 133,
+            "T20s": 249
+          },
+          {
+            "FORMATE" : "Wicket",
+            "TEST" :34,
+            "ODI" : 56,
+            "T20I" : 68,
+            "FC":88,
+            "lisrA": 133,
+            "T20s": 249
+          },
+          {
+            "FORMATE" : "Economy",
+            "TEST" :34,
+            "ODI" : 56,
+            "T20I" : 68,
+            "FC":88,
+            "lisrA": 133,
+            "T20s": 249
+          },
+          {
+            "FORMATE" : "Bowl S/R",
+            "TEST" : "1/0",
+            "ODI" :  " ",
+            "T20I" :  "13/",
+            "FC":   "366/67",
+            "lisrA":  "395/89",
+            "T20s":  "545/89"
+          },
+          {
+            "FORMATE" : "5s",
+            "TEST" :  "-",
+            "ODI" : "2",
+            "T20I" : "2",
+            "FC": "3",
+            "lisrA":  "2",
+            "T20s":  "1"
+          }
+      ]
           },
           {
             "id" : 15,
             "name":"Aaron Finch",
             "image":"https://images.cricket.com/players/4196_headshot_safari.png",
             "country": "AUSTRALIA",
-            "logo": "https://image.shutterstock.com/image-illustration/crumpled-fabric-flag-australia-intro-600w-1934834207.jpg"
+            "logo": "https://image.shutterstock.com/image-illustration/crumpled-fabric-flag-australia-intro-600w-1934834207.jpg",
+            "batting" : [
+              {
+                "FORMATE" : "Matches",
+                "TEST" :34,
+                "ODI" : 56,
+                "T20I" : 68,
+                "FC":88,
+                "lisrA": 133,
+                "T20s": 249
+              },
+              {
+               "FORMATE" : "Innings",
+               "TEST" :34,
+               "ODI" : 56,
+               "T20I" : 68,
+               "FC":88,
+               "lisrA": 133,
+               "T20s": 249
+             },
+             {
+               "FORMATE" : "Rec.Form",
+               "TEST" :34,
+               "ODI" : 56,
+               "T20I" : 68,
+               "FC":88,
+               "lisrA": 133,
+               "T20s": 249
+             },
+             {
+               "FORMATE" : "Runs",
+               "TEST" :34,
+               "ODI" : 56,
+               "T20I" : 68,
+               "FC":88,
+               "lisrA": 133,
+               "T20s": 249
+             },
+             {
+               "FORMATE" : "Bat S/R",
+               "TEST" :34,
+               "ODI" : 56,
+               "T20I" : 68,
+               "FC":88,
+               "lisrA": 133,
+               "T20s": 249
+             },
+             {
+               "FORMATE" : "Average",
+               "TEST" :34,
+               "ODI" : 56,
+               "T20I" : 68,
+               "FC":88,
+               "lisrA": 133,
+               "T20s": 249
+             },
+             {
+               "FORMATE" : "50s/100s",
+               "TEST" : "1/0",
+               "ODI" :  " ",
+               "T20I" :  "13/",
+               "FC":   "366/67",
+               "lisrA":  "395/89",
+               "T20s":  "545/89"
+             },
+             {
+               "FORMATE" : "4s/6s",
+               "TEST" : "6/1",
+               "ODI" : "10/4",
+               "T20I" : "52/39",
+               "FC": "338/74",
+               "lisrA":  "178/75",
+               "T20s":  "304/27"
+             }
+         ],
+         "bowlling" : [
+           {
+             "FORMATE" : "Matches",
+             "TEST" :34,
+             "ODI" : 56,
+             "T20I" : 68,
+             "FC":88,
+             "lisrA": 133,
+             "T20s": 249
+           },
+           {
+            "FORMATE" : "Innings",
+            "TEST" : "-",
+            "ODI" :  56,
+            "T20I" : 68,
+            "FC":88,
+            "lisrA": 133,
+            "T20s": 249
+          },
+          {
+            "FORMATE" : "Rec.Form",
+            "TEST" :34,
+            "ODI" : 56,
+            "T20I" : 68,
+            "FC":88,
+            "lisrA": 133,
+            "T20s": 249
+          },
+          {
+            "FORMATE" : "Balls",
+            "TEST" :34,
+            "ODI" : 56,
+            "T20I" : 68,
+            "FC":88,
+            "lisrA": 133,
+            "T20s": 249
+          },
+          {
+            "FORMATE" : "Wicket",
+            "TEST" :34,
+            "ODI" : 56,
+            "T20I" : 68,
+            "FC":88,
+            "lisrA": 133,
+            "T20s": 249
+          },
+          {
+            "FORMATE" : "Economy",
+            "TEST" :34,
+            "ODI" : 56,
+            "T20I" : 68,
+            "FC":88,
+            "lisrA": 133,
+            "T20s": 249
+          },
+          {
+            "FORMATE" : "Bowl S/R",
+            "TEST" : "1/0",
+            "ODI" :  " ",
+            "T20I" :  "13/",
+            "FC":   "366/67",
+            "lisrA":  "395/89",
+            "T20s":  "545/89"
+          },
+          {
+            "FORMATE" : "5s",
+            "TEST" :  "-",
+            "ODI" : "2",
+            "T20I" : "2",
+            "FC": "3",
+            "lisrA":  "2",
+            "T20s":  "1"
+          }
+      ]
           },
           {
             "id" : 16,
             "name":"Reece Topley",
             "image":"https://images.cricket.com/players/58101_headshot_safari.png",
             "country": "ENGLAND",
-            "logo": "https://seeklogo.com/images/E/england-flag-logo-9A30B7DCF3-seeklogo.com.png"
+            "logo": "https://seeklogo.com/images/E/england-flag-logo-9A30B7DCF3-seeklogo.com.png",
+            "batting" : [
+              {
+                "FORMATE" : "Matches",
+                "TEST" :34,
+                "ODI" : 56,
+                "T20I" : 68,
+                "FC":88,
+                "lisrA": 133,
+                "T20s": 249
+              },
+              {
+               "FORMATE" : "Innings",
+               "TEST" :34,
+               "ODI" : 56,
+               "T20I" : 68,
+               "FC":88,
+               "lisrA": 133,
+               "T20s": 249
+             },
+             {
+               "FORMATE" : "Rec.Form",
+               "TEST" :34,
+               "ODI" : 56,
+               "T20I" : 68,
+               "FC":88,
+               "lisrA": 133,
+               "T20s": 249
+             },
+             {
+               "FORMATE" : "Runs",
+               "TEST" :34,
+               "ODI" : 56,
+               "T20I" : 68,
+               "FC":88,
+               "lisrA": 133,
+               "T20s": 249
+             },
+             {
+               "FORMATE" : "Bat S/R",
+               "TEST" :34,
+               "ODI" : 56,
+               "T20I" : 68,
+               "FC":88,
+               "lisrA": 133,
+               "T20s": 249
+             },
+             {
+               "FORMATE" : "Average",
+               "TEST" :34,
+               "ODI" : 56,
+               "T20I" : 68,
+               "FC":88,
+               "lisrA": 133,
+               "T20s": 249
+             },
+             {
+               "FORMATE" : "50s/100s",
+               "TEST" : "1/0",
+               "ODI" :  " ",
+               "T20I" :  "13/",
+               "FC":   "366/67",
+               "lisrA":  "395/89",
+               "T20s":  "545/89"
+             },
+             {
+               "FORMATE" : "4s/6s",
+               "TEST" : "6/1",
+               "ODI" : "10/4",
+               "T20I" : "52/39",
+               "FC": "338/74",
+               "lisrA":  "178/75",
+               "T20s":  "304/27"
+             }
+         ],
+         "bowlling" : [
+           {
+             "FORMATE" : "Matches",
+             "TEST" :34,
+             "ODI" : 56,
+             "T20I" : 68,
+             "FC":88,
+             "lisrA": 133,
+             "T20s": 249
+           },
+           {
+            "FORMATE" : "Innings",
+            "TEST" : "-",
+            "ODI" :  56,
+            "T20I" : 68,
+            "FC":88,
+            "lisrA": 133,
+            "T20s": 249
+          },
+          {
+            "FORMATE" : "Rec.Form",
+            "TEST" :34,
+            "ODI" : 56,
+            "T20I" : 68,
+            "FC":88,
+            "lisrA": 133,
+            "T20s": 249
+          },
+          {
+            "FORMATE" : "Balls",
+            "TEST" :34,
+            "ODI" : 56,
+            "T20I" : 68,
+            "FC":88,
+            "lisrA": 133,
+            "T20s": 249
+          },
+          {
+            "FORMATE" : "Wicket",
+            "TEST" :34,
+            "ODI" : 56,
+            "T20I" : 68,
+            "FC":88,
+            "lisrA": 133,
+            "T20s": 249
+          },
+          {
+            "FORMATE" : "Economy",
+            "TEST" :34,
+            "ODI" : 56,
+            "T20I" : 68,
+            "FC":88,
+            "lisrA": 133,
+            "T20s": 249
+          },
+          {
+            "FORMATE" : "Bowl S/R",
+            "TEST" : "1/0",
+            "ODI" :  " ",
+            "T20I" :  "13/",
+            "FC":   "366/67",
+            "lisrA":  "395/89",
+            "T20s":  "545/89"
+          },
+          {
+            "FORMATE" : "5s",
+            "TEST" :  "-",
+            "ODI" : "2",
+            "T20I" : "2",
+            "FC": "3",
+            "lisrA":  "2",
+            "T20s":  "1"
+          }
+      ]
           },
           {
             "id" : 17,
             "name":"Moeen Ali",
             "image":"https://images.cricket.com/players/4688_actionshot_safari.jpg",
             "country": "ENGLAND",
-            "logo": "https://seeklogo.com/images/E/england-flag-logo-9A30B7DCF3-seeklogo.com.png"
+            "logo": "https://seeklogo.com/images/E/england-flag-logo-9A30B7DCF3-seeklogo.com.png",
+            "batting" : [
+              {
+                "FORMATE" : "Matches",
+                "TEST" :34,
+                "ODI" : 56,
+                "T20I" : 68,
+                "FC":88,
+                "lisrA": 133,
+                "T20s": 249
+              },
+              {
+               "FORMATE" : "Innings",
+               "TEST" :34,
+               "ODI" : 56,
+               "T20I" : 68,
+               "FC":88,
+               "lisrA": 133,
+               "T20s": 249
+             },
+             {
+               "FORMATE" : "Rec.Form",
+               "TEST" :34,
+               "ODI" : 56,
+               "T20I" : 68,
+               "FC":88,
+               "lisrA": 133,
+               "T20s": 249
+             },
+             {
+               "FORMATE" : "Runs",
+               "TEST" :34,
+               "ODI" : 56,
+               "T20I" : 68,
+               "FC":88,
+               "lisrA": 133,
+               "T20s": 249
+             },
+             {
+               "FORMATE" : "Bat S/R",
+               "TEST" :34,
+               "ODI" : 56,
+               "T20I" : 68,
+               "FC":88,
+               "lisrA": 133,
+               "T20s": 249
+             },
+             {
+               "FORMATE" : "Average",
+               "TEST" :34,
+               "ODI" : 56,
+               "T20I" : 68,
+               "FC":88,
+               "lisrA": 133,
+               "T20s": 249
+             },
+             {
+               "FORMATE" : "50s/100s",
+               "TEST" : "1/0",
+               "ODI" :  " ",
+               "T20I" :  "13/",
+               "FC":   "366/67",
+               "lisrA":  "395/89",
+               "T20s":  "545/89"
+             },
+             {
+               "FORMATE" : "4s/6s",
+               "TEST" : "6/1",
+               "ODI" : "10/4",
+               "T20I" : "52/39",
+               "FC": "338/74",
+               "lisrA":  "178/75",
+               "T20s":  "304/27"
+             }
+         ],
+         "bowlling" : [
+           {
+             "FORMATE" : "Matches",
+             "TEST" :34,
+             "ODI" : 56,
+             "T20I" : 68,
+             "FC":88,
+             "lisrA": 133,
+             "T20s": 249
+           },
+           {
+            "FORMATE" : "Innings",
+            "TEST" : "-",
+            "ODI" :  56,
+            "T20I" : 68,
+            "FC":88,
+            "lisrA": 133,
+            "T20s": 249
+          },
+          {
+            "FORMATE" : "Rec.Form",
+            "TEST" :34,
+            "ODI" : 56,
+            "T20I" : 68,
+            "FC":88,
+            "lisrA": 133,
+            "T20s": 249
+          },
+          {
+            "FORMATE" : "Balls",
+            "TEST" :34,
+            "ODI" : 56,
+            "T20I" : 68,
+            "FC":88,
+            "lisrA": 133,
+            "T20s": 249
+          },
+          {
+            "FORMATE" : "Wicket",
+            "TEST" :34,
+            "ODI" : 56,
+            "T20I" : 68,
+            "FC":88,
+            "lisrA": 133,
+            "T20s": 249
+          },
+          {
+            "FORMATE" : "Economy",
+            "TEST" :34,
+            "ODI" : 56,
+            "T20I" : 68,
+            "FC":88,
+            "lisrA": 133,
+            "T20s": 249
+          },
+          {
+            "FORMATE" : "Bowl S/R",
+            "TEST" : "1/0",
+            "ODI" :  " ",
+            "T20I" :  "13/",
+            "FC":   "366/67",
+            "lisrA":  "395/89",
+            "T20s":  "545/89"
+          },
+          {
+            "FORMATE" : "5s",
+            "TEST" :  "-",
+            "ODI" : "2",
+            "T20I" : "2",
+            "FC": "3",
+            "lisrA":  "2",
+            "T20s":  "1"
+          }
+      ]
           },
           {
             "id" : 18,
             "name":"David Willey",
             "image":"https://images.cricket.com/players/35128_headshot_safari.png",
             "country": "ENGLAND",
-            "logo": "https://seeklogo.com/images/E/england-flag-logo-9A30B7DCF3-seeklogo.com.png"
+            "logo": "https://seeklogo.com/images/E/england-flag-logo-9A30B7DCF3-seeklogo.com.png",
+            "batting" : [
+              {
+                "FORMATE" : "Matches",
+                "TEST" :34,
+                "ODI" : 56,
+                "T20I" : 68,
+                "FC":88,
+                "lisrA": 133,
+                "T20s": 249
+              },
+              {
+               "FORMATE" : "Innings",
+               "TEST" :34,
+               "ODI" : 56,
+               "T20I" : 68,
+               "FC":88,
+               "lisrA": 133,
+               "T20s": 249
+             },
+             {
+               "FORMATE" : "Rec.Form",
+               "TEST" :34,
+               "ODI" : 56,
+               "T20I" : 68,
+               "FC":88,
+               "lisrA": 133,
+               "T20s": 249
+             },
+             {
+               "FORMATE" : "Runs",
+               "TEST" :34,
+               "ODI" : 56,
+               "T20I" : 68,
+               "FC":88,
+               "lisrA": 133,
+               "T20s": 249
+             },
+             {
+               "FORMATE" : "Bat S/R",
+               "TEST" :34,
+               "ODI" : 56,
+               "T20I" : 68,
+               "FC":88,
+               "lisrA": 133,
+               "T20s": 249
+             },
+             {
+               "FORMATE" : "Average",
+               "TEST" :34,
+               "ODI" : 56,
+               "T20I" : 68,
+               "FC":88,
+               "lisrA": 133,
+               "T20s": 249
+             },
+             {
+               "FORMATE" : "50s/100s",
+               "TEST" : "1/0",
+               "ODI" :  " ",
+               "T20I" :  "13/",
+               "FC":   "366/67",
+               "lisrA":  "395/89",
+               "T20s":  "545/89"
+             },
+             {
+               "FORMATE" : "4s/6s",
+               "TEST" : "6/1",
+               "ODI" : "10/4",
+               "T20I" : "52/39",
+               "FC": "338/74",
+               "lisrA":  "178/75",
+               "T20s":  "304/27"
+             }
+         ],
+         "bowlling" : [
+           {
+             "FORMATE" : "Matches",
+             "TEST" :34,
+             "ODI" : 56,
+             "T20I" : 68,
+             "FC":88,
+             "lisrA": 133,
+             "T20s": 249
+           },
+           {
+            "FORMATE" : "Innings",
+            "TEST" : "-",
+            "ODI" :  56,
+            "T20I" : 68,
+            "FC":88,
+            "lisrA": 133,
+            "T20s": 249
+          },
+          {
+            "FORMATE" : "Rec.Form",
+            "TEST" :34,
+            "ODI" : 56,
+            "T20I" : 68,
+            "FC":88,
+            "lisrA": 133,
+            "T20s": 249
+          },
+          {
+            "FORMATE" : "Balls",
+            "TEST" :34,
+            "ODI" : 56,
+            "T20I" : 68,
+            "FC":88,
+            "lisrA": 133,
+            "T20s": 249
+          },
+          {
+            "FORMATE" : "Wicket",
+            "TEST" :34,
+            "ODI" : 56,
+            "T20I" : 68,
+            "FC":88,
+            "lisrA": 133,
+            "T20s": 249
+          },
+          {
+            "FORMATE" : "Economy",
+            "TEST" :34,
+            "ODI" : 56,
+            "T20I" : 68,
+            "FC":88,
+            "lisrA": 133,
+            "T20s": 249
+          },
+          {
+            "FORMATE" : "Bowl S/R",
+            "TEST" : "1/0",
+            "ODI" :  " ",
+            "T20I" :  "13/",
+            "FC":   "366/67",
+            "lisrA":  "395/89",
+            "T20s":  "545/89"
+          },
+          {
+            "FORMATE" : "5s",
+            "TEST" :  "-",
+            "ODI" : "2",
+            "T20I" : "2",
+            "FC": "3",
+            "lisrA":  "2",
+            "T20s":  "1"
+          }
+      ]
           },
           {
             "id" : 19,
             "name":"Jonny Bairstow",
             "image":"https://images.cricket.com/players/19394_headshot_safari.png",
             "country": "ENGLAND",
-            "logo": "https://seeklogo.com/images/E/england-flag-logo-9A30B7DCF3-seeklogo.com.png"
+            "logo": "https://seeklogo.com/images/E/england-flag-logo-9A30B7DCF3-seeklogo.com.png",
+            "batting" : [
+              {
+                "FORMATE" : "Matches",
+                "TEST" :34,
+                "ODI" : 56,
+                "T20I" : 68,
+                "FC":88,
+                "lisrA": 133,
+                "T20s": 249
+              },
+              {
+               "FORMATE" : "Innings",
+               "TEST" :34,
+               "ODI" : 56,
+               "T20I" : 68,
+               "FC":88,
+               "lisrA": 133,
+               "T20s": 249
+             },
+             {
+               "FORMATE" : "Rec.Form",
+               "TEST" :34,
+               "ODI" : 56,
+               "T20I" : 68,
+               "FC":88,
+               "lisrA": 133,
+               "T20s": 249
+             },
+             {
+               "FORMATE" : "Runs",
+               "TEST" :34,
+               "ODI" : 56,
+               "T20I" : 68,
+               "FC":88,
+               "lisrA": 133,
+               "T20s": 249
+             },
+             {
+               "FORMATE" : "Bat S/R",
+               "TEST" :34,
+               "ODI" : 56,
+               "T20I" : 68,
+               "FC":88,
+               "lisrA": 133,
+               "T20s": 249
+             },
+             {
+               "FORMATE" : "Average",
+               "TEST" :34,
+               "ODI" : 56,
+               "T20I" : 68,
+               "FC":88,
+               "lisrA": 133,
+               "T20s": 249
+             },
+             {
+               "FORMATE" : "50s/100s",
+               "TEST" : "1/0",
+               "ODI" :  " ",
+               "T20I" :  "13/",
+               "FC":   "366/67",
+               "lisrA":  "395/89",
+               "T20s":  "545/89"
+             },
+             {
+               "FORMATE" : "4s/6s",
+               "TEST" : "6/1",
+               "ODI" : "10/4",
+               "T20I" : "52/39",
+               "FC": "338/74",
+               "lisrA":  "178/75",
+               "T20s":  "304/27"
+             }
+         ],
+         "bowlling" : [
+           {
+             "FORMATE" : "Matches",
+             "TEST" :34,
+             "ODI" : 56,
+             "T20I" : 68,
+             "FC":88,
+             "lisrA": 133,
+             "T20s": 249
+           },
+           {
+            "FORMATE" : "Innings",
+            "TEST" : "-",
+            "ODI" :  56,
+            "T20I" : 68,
+            "FC":88,
+            "lisrA": 133,
+            "T20s": 249
+          },
+          {
+            "FORMATE" : "Rec.Form",
+            "TEST" :34,
+            "ODI" : 56,
+            "T20I" : 68,
+            "FC":88,
+            "lisrA": 133,
+            "T20s": 249
+          },
+          {
+            "FORMATE" : "Balls",
+            "TEST" :34,
+            "ODI" : 56,
+            "T20I" : 68,
+            "FC":88,
+            "lisrA": 133,
+            "T20s": 249
+          },
+          {
+            "FORMATE" : "Wicket",
+            "TEST" :34,
+            "ODI" : 56,
+            "T20I" : 68,
+            "FC":88,
+            "lisrA": 133,
+            "T20s": 249
+          },
+          {
+            "FORMATE" : "Economy",
+            "TEST" :34,
+            "ODI" : 56,
+            "T20I" : 68,
+            "FC":88,
+            "lisrA": 133,
+            "T20s": 249
+          },
+          {
+            "FORMATE" : "Bowl S/R",
+            "TEST" : "1/0",
+            "ODI" :  " ",
+            "T20I" :  "13/",
+            "FC":   "366/67",
+            "lisrA":  "395/89",
+            "T20s":  "545/89"
+          },
+          {
+            "FORMATE" : "5s",
+            "TEST" :  "-",
+            "ODI" : "2",
+            "T20I" : "2",
+            "FC": "3",
+            "lisrA":  "2",
+            "T20s":  "1"
+          }
+      ]
           },
           {
             "id" : 20,
             "name":"Ben Stokes",
             "image":"https://images.cricket.com/players/10130_headshot_safari.png",
             "country": "ENGLAND",
-            "logo": "https://seeklogo.com/images/E/england-flag-logo-9A30B7DCF3-seeklogo.com.png"
+            "logo": "https://seeklogo.com/images/E/england-flag-logo-9A30B7DCF3-seeklogo.com.png",
+            "batting" : [
+              {
+                "FORMATE" : "Matches",
+                "TEST" :34,
+                "ODI" : 56,
+                "T20I" : 68,
+                "FC":88,
+                "lisrA": 133,
+                "T20s": 249
+              },
+              {
+               "FORMATE" : "Innings",
+               "TEST" :34,
+               "ODI" : 56,
+               "T20I" : 68,
+               "FC":88,
+               "lisrA": 133,
+               "T20s": 249
+             },
+             {
+               "FORMATE" : "Rec.Form",
+               "TEST" :34,
+               "ODI" : 56,
+               "T20I" : 68,
+               "FC":88,
+               "lisrA": 133,
+               "T20s": 249
+             },
+             {
+               "FORMATE" : "Runs",
+               "TEST" :34,
+               "ODI" : 56,
+               "T20I" : 68,
+               "FC":88,
+               "lisrA": 133,
+               "T20s": 249
+             },
+             {
+               "FORMATE" : "Bat S/R",
+               "TEST" :34,
+               "ODI" : 56,
+               "T20I" : 68,
+               "FC":88,
+               "lisrA": 133,
+               "T20s": 249
+             },
+             {
+               "FORMATE" : "Average",
+               "TEST" :34,
+               "ODI" : 56,
+               "T20I" : 68,
+               "FC":88,
+               "lisrA": 133,
+               "T20s": 249
+             },
+             {
+               "FORMATE" : "50s/100s",
+               "TEST" : "1/0",
+               "ODI" :  " ",
+               "T20I" :  "13/",
+               "FC":   "366/67",
+               "lisrA":  "395/89",
+               "T20s":  "545/89"
+             },
+             {
+               "FORMATE" : "4s/6s",
+               "TEST" : "6/1",
+               "ODI" : "10/4",
+               "T20I" : "52/39",
+               "FC": "338/74",
+               "lisrA":  "178/75",
+               "T20s":  "304/27"
+             }
+         ],
+         "bowlling" : [
+           {
+             "FORMATE" : "Matches",
+             "TEST" :34,
+             "ODI" : 56,
+             "T20I" : 68,
+             "FC":88,
+             "lisrA": 133,
+             "T20s": 249
+           },
+           {
+            "FORMATE" : "Innings",
+            "TEST" : "-",
+            "ODI" :  56,
+            "T20I" : 68,
+            "FC":88,
+            "lisrA": 133,
+            "T20s": 249
+          },
+          {
+            "FORMATE" : "Rec.Form",
+            "TEST" :34,
+            "ODI" : 56,
+            "T20I" : 68,
+            "FC":88,
+            "lisrA": 133,
+            "T20s": 249
+          },
+          {
+            "FORMATE" : "Balls",
+            "TEST" :34,
+            "ODI" : 56,
+            "T20I" : 68,
+            "FC":88,
+            "lisrA": 133,
+            "T20s": 249
+          },
+          {
+            "FORMATE" : "Wicket",
+            "TEST" :34,
+            "ODI" : 56,
+            "T20I" : 68,
+            "FC":88,
+            "lisrA": 133,
+            "T20s": 249
+          },
+          {
+            "FORMATE" : "Economy",
+            "TEST" :34,
+            "ODI" : 56,
+            "T20I" : 68,
+            "FC":88,
+            "lisrA": 133,
+            "T20s": 249
+          },
+          {
+            "FORMATE" : "Bowl S/R",
+            "TEST" : "1/0",
+            "ODI" :  " ",
+            "T20I" :  "13/",
+            "FC":   "366/67",
+            "lisrA":  "395/89",
+            "T20s":  "545/89"
+          },
+          {
+            "FORMATE" : "5s",
+            "TEST" :  "-",
+            "ODI" : "2",
+            "T20I" : "2",
+            "FC": "3",
+            "lisrA":  "2",
+            "T20s":  "1"
+          }
+      ]
           },
           {
             "id" : 21,
             "name":"Jason Roy",
             "image":"https://images.cricket.com/players/33031_headshot_safari.png",
             "country": "ENGLAND",
-            "logo": "https://seeklogo.com/images/E/england-flag-logo-9A30B7DCF3-seeklogo.com.png"
+            "logo": "https://seeklogo.com/images/E/england-flag-logo-9A30B7DCF3-seeklogo.com.png",
+            "batting" : [
+              {
+                "FORMATE" : "Matches",
+                "TEST" :34,
+                "ODI" : 56,
+                "T20I" : 68,
+                "FC":88,
+                "lisrA": 133,
+                "T20s": 249
+              },
+              {
+               "FORMATE" : "Innings",
+               "TEST" :34,
+               "ODI" : 56,
+               "T20I" : 68,
+               "FC":88,
+               "lisrA": 133,
+               "T20s": 249
+             },
+             {
+               "FORMATE" : "Rec.Form",
+               "TEST" :34,
+               "ODI" : 56,
+               "T20I" : 68,
+               "FC":88,
+               "lisrA": 133,
+               "T20s": 249
+             },
+             {
+               "FORMATE" : "Runs",
+               "TEST" :34,
+               "ODI" : 56,
+               "T20I" : 68,
+               "FC":88,
+               "lisrA": 133,
+               "T20s": 249
+             },
+             {
+               "FORMATE" : "Bat S/R",
+               "TEST" :34,
+               "ODI" : 56,
+               "T20I" : 68,
+               "FC":88,
+               "lisrA": 133,
+               "T20s": 249
+             },
+             {
+               "FORMATE" : "Average",
+               "TEST" :34,
+               "ODI" : 56,
+               "T20I" : 68,
+               "FC":88,
+               "lisrA": 133,
+               "T20s": 249
+             },
+             {
+               "FORMATE" : "50s/100s",
+               "TEST" : "1/0",
+               "ODI" :  " ",
+               "T20I" :  "13/",
+               "FC":   "366/67",
+               "lisrA":  "395/89",
+               "T20s":  "545/89"
+             },
+             {
+               "FORMATE" : "4s/6s",
+               "TEST" : "6/1",
+               "ODI" : "10/4",
+               "T20I" : "52/39",
+               "FC": "338/74",
+               "lisrA":  "178/75",
+               "T20s":  "304/27"
+             }
+         ],
+         "bowlling" : [
+           {
+             "FORMATE" : "Matches",
+             "TEST" :34,
+             "ODI" : 56,
+             "T20I" : 68,
+             "FC":88,
+             "lisrA": 133,
+             "T20s": 249
+           },
+           {
+            "FORMATE" : "Innings",
+            "TEST" : "-",
+            "ODI" :  56,
+            "T20I" : 68,
+            "FC":88,
+            "lisrA": 133,
+            "T20s": 249
+          },
+          {
+            "FORMATE" : "Rec.Form",
+            "TEST" :34,
+            "ODI" : 56,
+            "T20I" : 68,
+            "FC":88,
+            "lisrA": 133,
+            "T20s": 249
+          },
+          {
+            "FORMATE" : "Balls",
+            "TEST" :34,
+            "ODI" : 56,
+            "T20I" : 68,
+            "FC":88,
+            "lisrA": 133,
+            "T20s": 249
+          },
+          {
+            "FORMATE" : "Wicket",
+            "TEST" :34,
+            "ODI" : 56,
+            "T20I" : 68,
+            "FC":88,
+            "lisrA": 133,
+            "T20s": 249
+          },
+          {
+            "FORMATE" : "Economy",
+            "TEST" :34,
+            "ODI" : 56,
+            "T20I" : 68,
+            "FC":88,
+            "lisrA": 133,
+            "T20s": 249
+          },
+          {
+            "FORMATE" : "Bowl S/R",
+            "TEST" : "1/0",
+            "ODI" :  " ",
+            "T20I" :  "13/",
+            "FC":   "366/67",
+            "lisrA":  "395/89",
+            "T20s":  "545/89"
+          },
+          {
+            "FORMATE" : "5s",
+            "TEST" :  "-",
+            "ODI" : "2",
+            "T20I" : "2",
+            "FC": "3",
+            "lisrA":  "2",
+            "T20s":  "1"
+          }
+      ]
           },
           {
             "id" : 22,
             "name":"Joe Root",
             "image":"https://images.cricket.com/players/10129_headshot_safari.png",
             "country": "ENGLAND",
-            "logo": "https://seeklogo.com/images/E/england-flag-logo-9A30B7DCF3-seeklogo.com.png"
+            "logo": "https://seeklogo.com/images/E/england-flag-logo-9A30B7DCF3-seeklogo.com.png",
+            "batting" : [
+              {
+                "FORMATE" : "Matches",
+                "TEST" :34,
+                "ODI" : 56,
+                "T20I" : 68,
+                "FC":88,
+                "lisrA": 133,
+                "T20s": 249
+              },
+              {
+               "FORMATE" : "Innings",
+               "TEST" :34,
+               "ODI" : 56,
+               "T20I" : 68,
+               "FC":88,
+               "lisrA": 133,
+               "T20s": 249
+             },
+             {
+               "FORMATE" : "Rec.Form",
+               "TEST" :34,
+               "ODI" : 56,
+               "T20I" : 68,
+               "FC":88,
+               "lisrA": 133,
+               "T20s": 249
+             },
+             {
+               "FORMATE" : "Runs",
+               "TEST" :34,
+               "ODI" : 56,
+               "T20I" : 68,
+               "FC":88,
+               "lisrA": 133,
+               "T20s": 249
+             },
+             {
+               "FORMATE" : "Bat S/R",
+               "TEST" :34,
+               "ODI" : 56,
+               "T20I" : 68,
+               "FC":88,
+               "lisrA": 133,
+               "T20s": 249
+             },
+             {
+               "FORMATE" : "Average",
+               "TEST" :34,
+               "ODI" : 56,
+               "T20I" : 68,
+               "FC":88,
+               "lisrA": 133,
+               "T20s": 249
+             },
+             {
+               "FORMATE" : "50s/100s",
+               "TEST" : "1/0",
+               "ODI" :  " ",
+               "T20I" :  "13/",
+               "FC":   "366/67",
+               "lisrA":  "395/89",
+               "T20s":  "545/89"
+             },
+             {
+               "FORMATE" : "4s/6s",
+               "TEST" : "6/1",
+               "ODI" : "10/4",
+               "T20I" : "52/39",
+               "FC": "338/74",
+               "lisrA":  "178/75",
+               "T20s":  "304/27"
+             }
+         ],
+         "bowlling" : [
+           {
+             "FORMATE" : "Matches",
+             "TEST" :34,
+             "ODI" : 56,
+             "T20I" : 68,
+             "FC":88,
+             "lisrA": 133,
+             "T20s": 249
+           },
+           {
+            "FORMATE" : "Innings",
+            "TEST" : "-",
+            "ODI" :  56,
+            "T20I" : 68,
+            "FC":88,
+            "lisrA": 133,
+            "T20s": 249
+          },
+          {
+            "FORMATE" : "Rec.Form",
+            "TEST" :34,
+            "ODI" : 56,
+            "T20I" : 68,
+            "FC":88,
+            "lisrA": 133,
+            "T20s": 249
+          },
+          {
+            "FORMATE" : "Balls",
+            "TEST" :34,
+            "ODI" : 56,
+            "T20I" : 68,
+            "FC":88,
+            "lisrA": 133,
+            "T20s": 249
+          },
+          {
+            "FORMATE" : "Wicket",
+            "TEST" :34,
+            "ODI" : 56,
+            "T20I" : 68,
+            "FC":88,
+            "lisrA": 133,
+            "T20s": 249
+          },
+          {
+            "FORMATE" : "Economy",
+            "TEST" :34,
+            "ODI" : 56,
+            "T20I" : 68,
+            "FC":88,
+            "lisrA": 133,
+            "T20s": 249
+          },
+          {
+            "FORMATE" : "Bowl S/R",
+            "TEST" : "1/0",
+            "ODI" :  " ",
+            "T20I" :  "13/",
+            "FC":   "366/67",
+            "lisrA":  "395/89",
+            "T20s":  "545/89"
+          },
+          {
+            "FORMATE" : "5s",
+            "TEST" :  "-",
+            "ODI" : "2",
+            "T20I" : "2",
+            "FC": "3",
+            "lisrA":  "2",
+            "T20s":  "1"
+          }
+      ]
           },
           {
             "id" : 23,
             "name":"Liam Livingstone",
             "image":"https://images.cricket.com/players/63940_headshot_safari.png",
             "country": "ENGLAND",
-            "logo": "https://seeklogo.com/images/E/england-flag-logo-9A30B7DCF3-seeklogo.com.png"
+            "logo": "https://seeklogo.com/images/E/england-flag-logo-9A30B7DCF3-seeklogo.com.png",
+            "batting" : [
+              {
+                "FORMATE" : "Matches",
+                "TEST" :34,
+                "ODI" : 56,
+                "T20I" : 68,
+                "FC":88,
+                "lisrA": 133,
+                "T20s": 249
+              },
+              {
+               "FORMATE" : "Innings",
+               "TEST" :34,
+               "ODI" : 56,
+               "T20I" : 68,
+               "FC":88,
+               "lisrA": 133,
+               "T20s": 249
+             },
+             {
+               "FORMATE" : "Rec.Form",
+               "TEST" :34,
+               "ODI" : 56,
+               "T20I" : 68,
+               "FC":88,
+               "lisrA": 133,
+               "T20s": 249
+             },
+             {
+               "FORMATE" : "Runs",
+               "TEST" :34,
+               "ODI" : 56,
+               "T20I" : 68,
+               "FC":88,
+               "lisrA": 133,
+               "T20s": 249
+             },
+             {
+               "FORMATE" : "Bat S/R",
+               "TEST" :34,
+               "ODI" : 56,
+               "T20I" : 68,
+               "FC":88,
+               "lisrA": 133,
+               "T20s": 249
+             },
+             {
+               "FORMATE" : "Average",
+               "TEST" :34,
+               "ODI" : 56,
+               "T20I" : 68,
+               "FC":88,
+               "lisrA": 133,
+               "T20s": 249
+             },
+             {
+               "FORMATE" : "50s/100s",
+               "TEST" : "1/0",
+               "ODI" :  " ",
+               "T20I" :  "13/",
+               "FC":   "366/67",
+               "lisrA":  "395/89",
+               "T20s":  "545/89"
+             },
+             {
+               "FORMATE" : "4s/6s",
+               "TEST" : "6/1",
+               "ODI" : "10/4",
+               "T20I" : "52/39",
+               "FC": "338/74",
+               "lisrA":  "178/75",
+               "T20s":  "304/27"
+             }
+         ],
+         "bowlling" : [
+           {
+             "FORMATE" : "Matches",
+             "TEST" :34,
+             "ODI" : 56,
+             "T20I" : 68,
+             "FC":88,
+             "lisrA": 133,
+             "T20s": 249
+           },
+           {
+            "FORMATE" : "Innings",
+            "TEST" : "-",
+            "ODI" :  56,
+            "T20I" : 68,
+            "FC":88,
+            "lisrA": 133,
+            "T20s": 249
+          },
+          {
+            "FORMATE" : "Rec.Form",
+            "TEST" :34,
+            "ODI" : 56,
+            "T20I" : 68,
+            "FC":88,
+            "lisrA": 133,
+            "T20s": 249
+          },
+          {
+            "FORMATE" : "Balls",
+            "TEST" :34,
+            "ODI" : 56,
+            "T20I" : 68,
+            "FC":88,
+            "lisrA": 133,
+            "T20s": 249
+          },
+          {
+            "FORMATE" : "Wicket",
+            "TEST" :34,
+            "ODI" : 56,
+            "T20I" : 68,
+            "FC":88,
+            "lisrA": 133,
+            "T20s": 249
+          },
+          {
+            "FORMATE" : "Economy",
+            "TEST" :34,
+            "ODI" : 56,
+            "T20I" : 68,
+            "FC":88,
+            "lisrA": 133,
+            "T20s": 249
+          },
+          {
+            "FORMATE" : "Bowl S/R",
+            "TEST" : "1/0",
+            "ODI" :  " ",
+            "T20I" :  "13/",
+            "FC":   "366/67",
+            "lisrA":  "395/89",
+            "T20s":  "545/89"
+          },
+          {
+            "FORMATE" : "5s",
+            "TEST" :  "-",
+            "ODI" : "2",
+            "T20I" : "2",
+            "FC": "3",
+            "lisrA":  "2",
+            "T20s":  "1"
+          }
+        ]
           },
           {
             "id" : 24,
-            "name":"Shubman Gill",
-            "image":"https://images.cricket.com/players/66818_headshot_safari.png",
-            "country": "India",
-            "logo": "https://images.cricket.com/teams/4_flag_safari.png"
-          }           
+            "name":"Glenn Phillips",
+            "image":"https://images.cricket.com/players/65295_headshot_safari.png",
+            "country": "NEW ZEALAND",
+            "logo": "https://images.cricket.com/teams/5_flag_safari.png",
+            "batting" : [
+              {
+                "FORMATE" : "Matches",
+                "TEST" :34,
+                "ODI" : 56,
+                "T20I" : 68,
+                "FC":88,
+                "lisrA": 133,
+                "T20s": 249
+              },
+              {
+               "FORMATE" : "Innings",
+               "TEST" :34,
+               "ODI" : 56,
+               "T20I" : 68,
+               "FC":88,
+               "lisrA": 133,
+               "T20s": 249
+             },
+             {
+               "FORMATE" : "Rec.Form",
+               "TEST" :34,
+               "ODI" : 56,
+               "T20I" : 68,
+               "FC":88,
+               "lisrA": 133,
+               "T20s": 249
+             },
+             {
+               "FORMATE" : "Runs",
+               "TEST" :34,
+               "ODI" : 56,
+               "T20I" : 68,
+               "FC":88,
+               "lisrA": 133,
+               "T20s": 249
+             },
+             {
+               "FORMATE" : "Bat S/R",
+               "TEST" :34,
+               "ODI" : 56,
+               "T20I" : 68,
+               "FC":88,
+               "lisrA": 133,
+               "T20s": 249
+             },
+             {
+               "FORMATE" : "Average",
+               "TEST" :34,
+               "ODI" : 56,
+               "T20I" : 68,
+               "FC":88,
+               "lisrA": 133,
+               "T20s": 249
+             },
+             {
+               "FORMATE" : "50s/100s",
+               "TEST" : "1/0",
+               "ODI" :  " ",
+               "T20I" :  "13/",
+               "FC":   "366/67",
+               "lisrA":  "395/89",
+               "T20s":  "545/89"
+             },
+             {
+               "FORMATE" : "4s/6s",
+               "TEST" : "6/1",
+               "ODI" : "10/4",
+               "T20I" : "52/39",
+               "FC": "338/74",
+               "lisrA":  "178/75",
+               "T20s":  "304/27"
+             }
+         ],
+         "bowlling" : [
+           {
+             "FORMATE" : "Matches",
+             "TEST" :34,
+             "ODI" : 56,
+             "T20I" : 68,
+             "FC":88,
+             "lisrA": 133,
+             "T20s": 249
+           },
+           {
+            "FORMATE" : "Innings",
+            "TEST" : "-",
+            "ODI" :  56,
+            "T20I" : 68,
+            "FC":88,
+            "lisrA": 133,
+            "T20s": 249
+          },
+          {
+            "FORMATE" : "Rec.Form",
+            "TEST" :34,
+            "ODI" : 56,
+            "T20I" : 68,
+            "FC":88,
+            "lisrA": 133,
+            "T20s": 249
+          },
+          {
+            "FORMATE" : "Balls",
+            "TEST" :34,
+            "ODI" : 56,
+            "T20I" : 68,
+            "FC":88,
+            "lisrA": 133,
+            "T20s": 249
+          },
+          {
+            "FORMATE" : "Wicket",
+            "TEST" :34,
+            "ODI" : 56,
+            "T20I" : 68,
+            "FC":88,
+            "lisrA": 133,
+            "T20s": 249
+          },
+          {
+            "FORMATE" : "Economy",
+            "TEST" :34,
+            "ODI" : 56,
+            "T20I" : 68,
+            "FC":88,
+            "lisrA": 133,
+            "T20s": 249
+          },
+          {
+            "FORMATE" : "Bowl S/R",
+            "TEST" : "1/0",
+            "ODI" :  " ",
+            "T20I" :  "13/",
+            "FC":   "366/67",
+            "lisrA":  "395/89",
+            "T20s":  "545/89"
+          },
+          {
+            "FORMATE" : "5s",
+            "TEST" :  "-",
+            "ODI" : "2",
+            "T20I" : "2",
+            "FC": "3",
+            "lisrA":  "2",
+            "T20s":  "1"
+          }
+      ]
+          },
+          {
+            "id" : 25,
+            "name":"Lockie Ferguson",
+            "image":"https://images.cricket.com/players/63719_headshot_safari.png",
+            "country": "NEW ZEALAND",
+            "logo": "https://images.cricket.com/teams/5_flag_safari.png",
+            "batting" : [
+              {
+                "FORMATE" : "Matches",
+                "TEST" :34,
+                "ODI" : 56,
+                "T20I" : 68,
+                "FC":88,
+                "lisrA": 133,
+                "T20s": 249
+              },
+              {
+               "FORMATE" : "Innings",
+               "TEST" :34,
+               "ODI" : 56,
+               "T20I" : 68,
+               "FC":88,
+               "lisrA": 133,
+               "T20s": 249
+             },
+             {
+               "FORMATE" : "Rec.Form",
+               "TEST" :34,
+               "ODI" : 56,
+               "T20I" : 68,
+               "FC":88,
+               "lisrA": 133,
+               "T20s": 249
+             },
+             {
+               "FORMATE" : "Runs",
+               "TEST" :34,
+               "ODI" : 56,
+               "T20I" : 68,
+               "FC":88,
+               "lisrA": 133,
+               "T20s": 249
+             },
+             {
+               "FORMATE" : "Bat S/R",
+               "TEST" :34,
+               "ODI" : 56,
+               "T20I" : 68,
+               "FC":88,
+               "lisrA": 133,
+               "T20s": 249
+             },
+             {
+               "FORMATE" : "Average",
+               "TEST" :34,
+               "ODI" : 56,
+               "T20I" : 68,
+               "FC":88,
+               "lisrA": 133,
+               "T20s": 249
+             },
+             {
+               "FORMATE" : "50s/100s",
+               "TEST" : "1/0",
+               "ODI" :  " ",
+               "T20I" :  "13/",
+               "FC":   "366/67",
+               "lisrA":  "395/89",
+               "T20s":  "545/89"
+             },
+             {
+               "FORMATE" : "4s/6s",
+               "TEST" : "6/1",
+               "ODI" : "10/4",
+               "T20I" : "52/39",
+               "FC": "338/74",
+               "lisrA":  "178/75",
+               "T20s":  "304/27"
+             }
+         ],
+         "bowlling" : [
+           {
+             "FORMATE" : "Matches",
+             "TEST" :34,
+             "ODI" : 56,
+             "T20I" : 68,
+             "FC":88,
+             "lisrA": 133,
+             "T20s": 249
+           },
+           {
+            "FORMATE" : "Innings",
+            "TEST" : "-",
+            "ODI" :  56,
+            "T20I" : 68,
+            "FC":88,
+            "lisrA": 133,
+            "T20s": 249
+          },
+          {
+            "FORMATE" : "Rec.Form",
+            "TEST" :34,
+            "ODI" : 56,
+            "T20I" : 68,
+            "FC":88,
+            "lisrA": 133,
+            "T20s": 249
+          },
+          {
+            "FORMATE" : "Balls",
+            "TEST" :34,
+            "ODI" : 56,
+            "T20I" : 68,
+            "FC":88,
+            "lisrA": 133,
+            "T20s": 249
+          },
+          {
+            "FORMATE" : "Wicket",
+            "TEST" :34,
+            "ODI" : 56,
+            "T20I" : 68,
+            "FC":88,
+            "lisrA": 133,
+            "T20s": 249
+          },
+          {
+            "FORMATE" : "Economy",
+            "TEST" :34,
+            "ODI" : 56,
+            "T20I" : 68,
+            "FC":88,
+            "lisrA": 133,
+            "T20s": 249
+          },
+          {
+            "FORMATE" : "Bowl S/R",
+            "TEST" : "1/0",
+            "ODI" :  " ",
+            "T20I" :  "13/",
+            "FC":   "366/67",
+            "lisrA":  "395/89",
+            "T20s":  "545/89"
+          },
+          {
+            "FORMATE" : "5s",
+            "TEST" :  "-",
+            "ODI" : "2",
+            "T20I" : "2",
+            "FC": "3",
+            "lisrA":  "2",
+            "T20s":  "1"
+          }
+      ]
+          },
+          {
+            "id" : 26,
+            "name":"Martin Guptill",
+            "image":"https://images.cricket.com/players/4964_headshot_safari.png",
+            "country": "NEW ZEALAND",
+            "logo": "https://images.cricket.com/teams/5_flag_safari.png",
+            "batting" : [
+              {
+                "FORMATE" : "Matches",
+                "TEST" :34,
+                "ODI" : 56,
+                "T20I" : 68,
+                "FC":88,
+                "lisrA": 133,
+                "T20s": 249
+              },
+              {
+               "FORMATE" : "Innings",
+               "TEST" :34,
+               "ODI" : 56,
+               "T20I" : 68,
+               "FC":88,
+               "lisrA": 133,
+               "T20s": 249
+             },
+             {
+               "FORMATE" : "Rec.Form",
+               "TEST" :34,
+               "ODI" : 56,
+               "T20I" : 68,
+               "FC":88,
+               "lisrA": 133,
+               "T20s": 249
+             },
+             {
+               "FORMATE" : "Runs",
+               "TEST" :34,
+               "ODI" : 56,
+               "T20I" : 68,
+               "FC":88,
+               "lisrA": 133,
+               "T20s": 249
+             },
+             {
+               "FORMATE" : "Bat S/R",
+               "TEST" :34,
+               "ODI" : 56,
+               "T20I" : 68,
+               "FC":88,
+               "lisrA": 133,
+               "T20s": 249
+             },
+             {
+               "FORMATE" : "Average",
+               "TEST" :34,
+               "ODI" : 56,
+               "T20I" : 68,
+               "FC":88,
+               "lisrA": 133,
+               "T20s": 249
+             },
+             {
+               "FORMATE" : "50s/100s",
+               "TEST" : "1/0",
+               "ODI" :  " ",
+               "T20I" :  "13/",
+               "FC":   "366/67",
+               "lisrA":  "395/89",
+               "T20s":  "545/89"
+             },
+             {
+               "FORMATE" : "4s/6s",
+               "TEST" : "6/1",
+               "ODI" : "10/4",
+               "T20I" : "52/39",
+               "FC": "338/74",
+               "lisrA":  "178/75",
+               "T20s":  "304/27"
+             }
+         ],
+         "bowlling" : [
+           {
+             "FORMATE" : "Matches",
+             "TEST" :34,
+             "ODI" : 56,
+             "T20I" : 68,
+             "FC":88,
+             "lisrA": 133,
+             "T20s": 249
+           },
+           {
+            "FORMATE" : "Innings",
+            "TEST" : "-",
+            "ODI" :  56,
+            "T20I" : 68,
+            "FC":88,
+            "lisrA": 133,
+            "T20s": 249
+          },
+          {
+            "FORMATE" : "Rec.Form",
+            "TEST" :34,
+            "ODI" : 56,
+            "T20I" : 68,
+            "FC":88,
+            "lisrA": 133,
+            "T20s": 249
+          },
+          {
+            "FORMATE" : "Balls",
+            "TEST" :34,
+            "ODI" : 56,
+            "T20I" : 68,
+            "FC":88,
+            "lisrA": 133,
+            "T20s": 249
+          },
+          {
+            "FORMATE" : "Wicket",
+            "TEST" :34,
+            "ODI" : 56,
+            "T20I" : 68,
+            "FC":88,
+            "lisrA": 133,
+            "T20s": 249
+          },
+          {
+            "FORMATE" : "Economy",
+            "TEST" :34,
+            "ODI" : 56,
+            "T20I" : 68,
+            "FC":88,
+            "lisrA": 133,
+            "T20s": 249
+          },
+          {
+            "FORMATE" : "Bowl S/R",
+            "TEST" : "1/0",
+            "ODI" :  " ",
+            "T20I" :  "13/",
+            "FC":   "366/67",
+            "lisrA":  "395/89",
+            "T20s":  "545/89"
+          },
+          {
+            "FORMATE" : "5s",
+            "TEST" :  "-",
+            "ODI" : "2",
+            "T20I" : "2",
+            "FC": "3",
+            "lisrA":  "2",
+            "T20s":  "1"
+          }
+      ]
+          },
+          {
+            "id" : 27,
+            "name":"Daryl Mitchell",
+            "image":"https://images.cricket.com/players/57444_headshot_safari.png",
+            "country": "NEW ZEALAND",
+            "logo": "https://images.cricket.com/teams/5_flag_safari.png",
+            "batting" : [
+              {
+                "FORMATE" : "Matches",
+                "TEST" :34,
+                "ODI" : 56,
+                "T20I" : 68,
+                "FC":88,
+                "lisrA": 133,
+                "T20s": 249
+              },
+              {
+               "FORMATE" : "Innings",
+               "TEST" :34,
+               "ODI" : 56,
+               "T20I" : 68,
+               "FC":88,
+               "lisrA": 133,
+               "T20s": 249
+             },
+             {
+               "FORMATE" : "Rec.Form",
+               "TEST" :34,
+               "ODI" : 56,
+               "T20I" : 68,
+               "FC":88,
+               "lisrA": 133,
+               "T20s": 249
+             },
+             {
+               "FORMATE" : "Runs",
+               "TEST" :34,
+               "ODI" : 56,
+               "T20I" : 68,
+               "FC":88,
+               "lisrA": 133,
+               "T20s": 249
+             },
+             {
+               "FORMATE" : "Bat S/R",
+               "TEST" :34,
+               "ODI" : 56,
+               "T20I" : 68,
+               "FC":88,
+               "lisrA": 133,
+               "T20s": 249
+             },
+             {
+               "FORMATE" : "Average",
+               "TEST" :34,
+               "ODI" : 56,
+               "T20I" : 68,
+               "FC":88,
+               "lisrA": 133,
+               "T20s": 249
+             },
+             {
+               "FORMATE" : "50s/100s",
+               "TEST" : "1/0",
+               "ODI" :  " ",
+               "T20I" :  "13/",
+               "FC":   "366/67",
+               "lisrA":  "395/89",
+               "T20s":  "545/89"
+             },
+             {
+               "FORMATE" : "4s/6s",
+               "TEST" : "6/1",
+               "ODI" : "10/4",
+               "T20I" : "52/39",
+               "FC": "338/74",
+               "lisrA":  "178/75",
+               "T20s":  "304/27"
+             }
+         ],
+         "bowlling" : [
+           {
+             "FORMATE" : "Matches",
+             "TEST" :34,
+             "ODI" : 56,
+             "T20I" : 68,
+             "FC":88,
+             "lisrA": 133,
+             "T20s": 249
+           },
+           {
+            "FORMATE" : "Innings",
+            "TEST" : "-",
+            "ODI" :  56,
+            "T20I" : 68,
+            "FC":88,
+            "lisrA": 133,
+            "T20s": 249
+          },
+          {
+            "FORMATE" : "Rec.Form",
+            "TEST" :34,
+            "ODI" : 56,
+            "T20I" : 68,
+            "FC":88,
+            "lisrA": 133,
+            "T20s": 249
+          },
+          {
+            "FORMATE" : "Balls",
+            "TEST" :34,
+            "ODI" : 56,
+            "T20I" : 68,
+            "FC":88,
+            "lisrA": 133,
+            "T20s": 249
+          },
+          {
+            "FORMATE" : "Wicket",
+            "TEST" :34,
+            "ODI" : 56,
+            "T20I" : 68,
+            "FC":88,
+            "lisrA": 133,
+            "T20s": 249
+          },
+          {
+            "FORMATE" : "Economy",
+            "TEST" :34,
+            "ODI" : 56,
+            "T20I" : 68,
+            "FC":88,
+            "lisrA": 133,
+            "T20s": 249
+          },
+          {
+            "FORMATE" : "Bowl S/R",
+            "TEST" : "1/0",
+            "ODI" :  " ",
+            "T20I" :  "13/",
+            "FC":   "366/67",
+            "lisrA":  "395/89",
+            "T20s":  "545/89"
+          },
+          {
+            "FORMATE" : "5s",
+            "TEST" :  "-",
+            "ODI" : "2",
+            "T20I" : "2",
+            "FC": "3",
+            "lisrA":  "2",
+            "T20s":  "1"
+          }
+      ]
+          },  
+          {
+            "id" : 28,
+            "name":"Jacob Duffy",
+            "image":"https://images.cricket.com/players/57672_headshot_safari.png",
+            "country": "NEW ZEALAND",
+            "logo": "https://images.cricket.com/teams/5_flag_safari.png",
+            "batting" : [
+              {
+                "FORMATE" : "Matches",
+                "TEST" :34,
+                "ODI" : 56,
+                "T20I" : 68,
+                "FC":88,
+                "lisrA": 133,
+                "T20s": 249
+              },
+              {
+               "FORMATE" : "Innings",
+               "TEST" :34,
+               "ODI" : 56,
+               "T20I" : 68,
+               "FC":88,
+               "lisrA": 133,
+               "T20s": 249
+             },
+             {
+               "FORMATE" : "Rec.Form",
+               "TEST" :34,
+               "ODI" : 56,
+               "T20I" : 68,
+               "FC":88,
+               "lisrA": 133,
+               "T20s": 249
+             },
+             {
+               "FORMATE" : "Runs",
+               "TEST" :34,
+               "ODI" : 56,
+               "T20I" : 68,
+               "FC":88,
+               "lisrA": 133,
+               "T20s": 249
+             },
+             {
+               "FORMATE" : "Bat S/R",
+               "TEST" :34,
+               "ODI" : 56,
+               "T20I" : 68,
+               "FC":88,
+               "lisrA": 133,
+               "T20s": 249
+             },
+             {
+               "FORMATE" : "Average",
+               "TEST" :34,
+               "ODI" : 56,
+               "T20I" : 68,
+               "FC":88,
+               "lisrA": 133,
+               "T20s": 249
+             },
+             {
+               "FORMATE" : "50s/100s",
+               "TEST" : "1/0",
+               "ODI" :  " ",
+               "T20I" :  "13/",
+               "FC":   "366/67",
+               "lisrA":  "395/89",
+               "T20s":  "545/89"
+             },
+             {
+               "FORMATE" : "4s/6s",
+               "TEST" : "6/1",
+               "ODI" : "10/4",
+               "T20I" : "52/39",
+               "FC": "338/74",
+               "lisrA":  "178/75",
+               "T20s":  "304/27"
+             }
+         ],
+         "bowlling" : [
+           {
+             "FORMATE" : "Matches",
+             "TEST" :34,
+             "ODI" : 56,
+             "T20I" : 68,
+             "FC":88,
+             "lisrA": 133,
+             "T20s": 249
+           },
+           {
+            "FORMATE" : "Innings",
+            "TEST" : "-",
+            "ODI" :  56,
+            "T20I" : 68,
+            "FC":88,
+            "lisrA": 133,
+            "T20s": 249
+          },
+          {
+            "FORMATE" : "Rec.Form",
+            "TEST" :34,
+            "ODI" : 56,
+            "T20I" : 68,
+            "FC":88,
+            "lisrA": 133,
+            "T20s": 249
+          },
+          {
+            "FORMATE" : "Balls",
+            "TEST" :34,
+            "ODI" : 56,
+            "T20I" : 68,
+            "FC":88,
+            "lisrA": 133,
+            "T20s": 249
+          },
+          {
+            "FORMATE" : "Wicket",
+            "TEST" :34,
+            "ODI" : 56,
+            "T20I" : 68,
+            "FC":88,
+            "lisrA": 133,
+            "T20s": 249
+          },
+          {
+            "FORMATE" : "Economy",
+            "TEST" :34,
+            "ODI" : 56,
+            "T20I" : 68,
+            "FC":88,
+            "lisrA": 133,
+            "T20s": 249
+          },
+          {
+            "FORMATE" : "Bowl S/R",
+            "TEST" : "1/0",
+            "ODI" :  " ",
+            "T20I" :  "13/",
+            "FC":   "366/67",
+            "lisrA":  "395/89",
+            "T20s":  "545/89"
+          },
+          {
+            "FORMATE" : "5s",
+            "TEST" :  "-",
+            "ODI" : "2",
+            "T20I" : "2",
+            "FC": "3",
+            "lisrA":  "2",
+            "T20s":  "1"
+          }
+      ]
+          },  
+          {
+            "id" : 29,
+            "name":"Finn Allen",
+            "image":"https://images.cricket.com/players/66046_headshot_safari.png",
+            "country": "NEW ZEALAND",
+            "logo": "https://images.cricket.com/teams/5_flag_safari.png",
+            "batting" : [
+              {
+                "FORMATE" : "Matches",
+                "TEST" :34,
+                "ODI" : 56,
+                "T20I" : 68,
+                "FC":88,
+                "lisrA": 133,
+                "T20s": 249
+              },
+              {
+               "FORMATE" : "Innings",
+               "TEST" :34,
+               "ODI" : 56,
+               "T20I" : 68,
+               "FC":88,
+               "lisrA": 133,
+               "T20s": 249
+             },
+             {
+               "FORMATE" : "Rec.Form",
+               "TEST" :34,
+               "ODI" : 56,
+               "T20I" : 68,
+               "FC":88,
+               "lisrA": 133,
+               "T20s": 249
+             },
+             {
+               "FORMATE" : "Runs",
+               "TEST" :34,
+               "ODI" : 56,
+               "T20I" : 68,
+               "FC":88,
+               "lisrA": 133,
+               "T20s": 249
+             },
+             {
+               "FORMATE" : "Bat S/R",
+               "TEST" :34,
+               "ODI" : 56,
+               "T20I" : 68,
+               "FC":88,
+               "lisrA": 133,
+               "T20s": 249
+             },
+             {
+               "FORMATE" : "Average",
+               "TEST" :34,
+               "ODI" : 56,
+               "T20I" : 68,
+               "FC":88,
+               "lisrA": 133,
+               "T20s": 249
+             },
+             {
+               "FORMATE" : "50s/100s",
+               "TEST" : "1/0",
+               "ODI" :  " ",
+               "T20I" :  "13/",
+               "FC":   "366/67",
+               "lisrA":  "395/89",
+               "T20s":  "545/89"
+             },
+             {
+               "FORMATE" : "4s/6s",
+               "TEST" : "6/1",
+               "ODI" : "10/4",
+               "T20I" : "52/39",
+               "FC": "338/74",
+               "lisrA":  "178/75",
+               "T20s":  "304/27"
+             }
+         ],
+         "bowlling" : [
+           {
+             "FORMATE" : "Matches",
+             "TEST" :34,
+             "ODI" : 56,
+             "T20I" : 68,
+             "FC":88,
+             "lisrA": 133,
+             "T20s": 249
+           },
+           {
+            "FORMATE" : "Innings",
+            "TEST" : "-",
+            "ODI" :  56,
+            "T20I" : 68,
+            "FC":88,
+            "lisrA": 133,
+            "T20s": 249
+          },
+          {
+            "FORMATE" : "Rec.Form",
+            "TEST" :34,
+            "ODI" : 56,
+            "T20I" : 68,
+            "FC":88,
+            "lisrA": 133,
+            "T20s": 249
+          },
+          {
+            "FORMATE" : "Balls",
+            "TEST" :34,
+            "ODI" : 56,
+            "T20I" : 68,
+            "FC":88,
+            "lisrA": 133,
+            "T20s": 249
+          },
+          {
+            "FORMATE" : "Wicket",
+            "TEST" :34,
+            "ODI" : 56,
+            "T20I" : 68,
+            "FC":88,
+            "lisrA": 133,
+            "T20s": 249
+          },
+          {
+            "FORMATE" : "Economy",
+            "TEST" :34,
+            "ODI" : 56,
+            "T20I" : 68,
+            "FC":88,
+            "lisrA": 133,
+            "T20s": 249
+          },
+          {
+            "FORMATE" : "Bowl S/R",
+            "TEST" : "1/0",
+            "ODI" :  " ",
+            "T20I" :  "13/",
+            "FC":   "366/67",
+            "lisrA":  "395/89",
+            "T20s":  "545/89"
+          },
+          {
+            "FORMATE" : "5s",
+            "TEST" :  "-",
+            "ODI" : "2",
+            "T20I" : "2",
+            "FC": "3",
+            "lisrA":  "2",
+            "T20s":  "1"
+          }
+      ]
+          },  
+          {
+            "id" : 30,
+            "name":"Ish Sodhi",
+            "image":"https://images.cricket.com/players/57625_headshot_safari.png",
+            "country": "NEW ZEALAND",
+            "logo": "https://images.cricket.com/teams/5_flag_safari.png",
+            "batting" : [
+              {
+                "FORMATE" : "Matches",
+                "TEST" :34,
+                "ODI" : 56,
+                "T20I" : 68,
+                "FC":88,
+                "lisrA": 133,
+                "T20s": 249
+              },
+              {
+               "FORMATE" : "Innings",
+               "TEST" :34,
+               "ODI" : 56,
+               "T20I" : 68,
+               "FC":88,
+               "lisrA": 133,
+               "T20s": 249
+             },
+             {
+               "FORMATE" : "Rec.Form",
+               "TEST" :34,
+               "ODI" : 56,
+               "T20I" : 68,
+               "FC":88,
+               "lisrA": 133,
+               "T20s": 249
+             },
+             {
+               "FORMATE" : "Runs",
+               "TEST" :34,
+               "ODI" : 56,
+               "T20I" : 68,
+               "FC":88,
+               "lisrA": 133,
+               "T20s": 249
+             },
+             {
+               "FORMATE" : "Bat S/R",
+               "TEST" :34,
+               "ODI" : 56,
+               "T20I" : 68,
+               "FC":88,
+               "lisrA": 133,
+               "T20s": 249
+             },
+             {
+               "FORMATE" : "Average",
+               "TEST" :34,
+               "ODI" : 56,
+               "T20I" : 68,
+               "FC":88,
+               "lisrA": 133,
+               "T20s": 249
+             },
+             {
+               "FORMATE" : "50s/100s",
+               "TEST" : "1/0",
+               "ODI" :  " ",
+               "T20I" :  "13/",
+               "FC":   "366/67",
+               "lisrA":  "395/89",
+               "T20s":  "545/89"
+             },
+             {
+               "FORMATE" : "4s/6s",
+               "TEST" : "6/1",
+               "ODI" : "10/4",
+               "T20I" : "52/39",
+               "FC": "338/74",
+               "lisrA":  "178/75",
+               "T20s":  "304/27"
+             }
+         ],
+         "bowlling" : [
+           {
+             "FORMATE" : "Matches",
+             "TEST" :34,
+             "ODI" : 56,
+             "T20I" : 68,
+             "FC":88,
+             "lisrA": 133,
+             "T20s": 249
+           },
+           {
+            "FORMATE" : "Innings",
+            "TEST" : "-",
+            "ODI" :  56,
+            "T20I" : 68,
+            "FC":88,
+            "lisrA": 133,
+            "T20s": 249
+          },
+          {
+            "FORMATE" : "Rec.Form",
+            "TEST" :34,
+            "ODI" : 56,
+            "T20I" : 68,
+            "FC":88,
+            "lisrA": 133,
+            "T20s": 249
+          },
+          {
+            "FORMATE" : "Balls",
+            "TEST" :34,
+            "ODI" : 56,
+            "T20I" : 68,
+            "FC":88,
+            "lisrA": 133,
+            "T20s": 249
+          },
+          {
+            "FORMATE" : "Wicket",
+            "TEST" :34,
+            "ODI" : 56,
+            "T20I" : 68,
+            "FC":88,
+            "lisrA": 133,
+            "T20s": 249
+          },
+          {
+            "FORMATE" : "Economy",
+            "TEST" :34,
+            "ODI" : 56,
+            "T20I" : 68,
+            "FC":88,
+            "lisrA": 133,
+            "T20s": 249
+          },
+          {
+            "FORMATE" : "Bowl S/R",
+            "TEST" : "1/0",
+            "ODI" :  " ",
+            "T20I" :  "13/",
+            "FC":   "366/67",
+            "lisrA":  "395/89",
+            "T20s":  "545/89"
+          },
+          {
+            "FORMATE" : "5s",
+            "TEST" :  "-",
+            "ODI" : "2",
+            "T20I" : "2",
+            "FC": "3",
+            "lisrA":  "2",
+            "T20s":  "1"
+          }
+      ]
+          }, 
+          {
+            "id" : 31,
+            "name":"Blair Tickner",
+            "image":"https://images.cricket.com/players/65465_headshot_safari.png",
+            "country": "NEW ZEALAND",
+            "logo": "https://images.cricket.com/teams/5_flag_safari.png",
+            "batting" : [
+              {
+                "FORMATE" : "Matches",
+                "TEST" :34,
+                "ODI" : 56,
+                "T20I" : 68,
+                "FC":88,
+                "lisrA": 133,
+                "T20s": 249
+              },
+              {
+               "FORMATE" : "Innings",
+               "TEST" :34,
+               "ODI" : 56,
+               "T20I" : 68,
+               "FC":88,
+               "lisrA": 133,
+               "T20s": 249
+             },
+             {
+               "FORMATE" : "Rec.Form",
+               "TEST" :34,
+               "ODI" : 56,
+               "T20I" : 68,
+               "FC":88,
+               "lisrA": 133,
+               "T20s": 249
+             },
+             {
+               "FORMATE" : "Runs",
+               "TEST" :34,
+               "ODI" : 56,
+               "T20I" : 68,
+               "FC":88,
+               "lisrA": 133,
+               "T20s": 249
+             },
+             {
+               "FORMATE" : "Bat S/R",
+               "TEST" :34,
+               "ODI" : 56,
+               "T20I" : 68,
+               "FC":88,
+               "lisrA": 133,
+               "T20s": 249
+             },
+             {
+               "FORMATE" : "Average",
+               "TEST" :34,
+               "ODI" : 56,
+               "T20I" : 68,
+               "FC":88,
+               "lisrA": 133,
+               "T20s": 249
+             },
+             {
+               "FORMATE" : "50s/100s",
+               "TEST" : "1/0",
+               "ODI" :  " ",
+               "T20I" :  "13/",
+               "FC":   "366/67",
+               "lisrA":  "395/89",
+               "T20s":  "545/89"
+             },
+             {
+               "FORMATE" : "4s/6s",
+               "TEST" : "6/1",
+               "ODI" : "10/4",
+               "T20I" : "52/39",
+               "FC": "338/74",
+               "lisrA":  "178/75",
+               "T20s":  "304/27"
+             }
+         ],
+         "bowlling" : [
+           {
+             "FORMATE" : "Matches",
+             "TEST" :34,
+             "ODI" : 56,
+             "T20I" : 68,
+             "FC":88,
+             "lisrA": 133,
+             "T20s": 249
+           },
+           {
+            "FORMATE" : "Innings",
+            "TEST" : "-",
+            "ODI" :  56,
+            "T20I" : 68,
+            "FC":88,
+            "lisrA": 133,
+            "T20s": 249
+          },
+          {
+            "FORMATE" : "Rec.Form",
+            "TEST" :34,
+            "ODI" : 56,
+            "T20I" : 68,
+            "FC":88,
+            "lisrA": 133,
+            "T20s": 249
+          },
+          {
+            "FORMATE" : "Balls",
+            "TEST" :34,
+            "ODI" : 56,
+            "T20I" : 68,
+            "FC":88,
+            "lisrA": 133,
+            "T20s": 249
+          },
+          {
+            "FORMATE" : "Wicket",
+            "TEST" :34,
+            "ODI" : 56,
+            "T20I" : 68,
+            "FC":88,
+            "lisrA": 133,
+            "T20s": 249
+          },
+          {
+            "FORMATE" : "Economy",
+            "TEST" :34,
+            "ODI" : 56,
+            "T20I" : 68,
+            "FC":88,
+            "lisrA": 133,
+            "T20s": 249
+          },
+          {
+            "FORMATE" : "Bowl S/R",
+            "TEST" : "1/0",
+            "ODI" :  " ",
+            "T20I" :  "13/",
+            "FC":   "366/67",
+            "lisrA":  "395/89",
+            "T20s":  "545/89"
+          },
+          {
+            "FORMATE" : "5s",
+            "TEST" :  "-",
+            "ODI" : "2",
+            "T20I" : "2",
+            "FC": "3",
+            "lisrA":  "2",
+            "T20s":  "1"
+          }
+      ]
+          },    
+          {
+            "id" : 32,
+            "name":"Mark Chapman",
+            "image":"https://images.cricket.com/players/60536_headshot_safari.png",
+            "country": "NEW ZEALAND",
+            "logo": "https://images.cricket.com/teams/5_flag_safari.png",
+            "batting" : [
+              {
+                "FORMATE" : "Matches",
+                "TEST" :34,
+                "ODI" : 56,
+                "T20I" : 68,
+                "FC":88,
+                "lisrA": 133,
+                "T20s": 249
+              },
+              {
+               "FORMATE" : "Innings",
+               "TEST" :34,
+               "ODI" : 56,
+               "T20I" : 68,
+               "FC":88,
+               "lisrA": 133,
+               "T20s": 249
+             },
+             {
+               "FORMATE" : "Rec.Form",
+               "TEST" :34,
+               "ODI" : 56,
+               "T20I" : 68,
+               "FC":88,
+               "lisrA": 133,
+               "T20s": 249
+             },
+             {
+               "FORMATE" : "Runs",
+               "TEST" :34,
+               "ODI" : 56,
+               "T20I" : 68,
+               "FC":88,
+               "lisrA": 133,
+               "T20s": 249
+             },
+             {
+               "FORMATE" : "Bat S/R",
+               "TEST" :34,
+               "ODI" : 56,
+               "T20I" : 68,
+               "FC":88,
+               "lisrA": 133,
+               "T20s": 249
+             },
+             {
+               "FORMATE" : "Average",
+               "TEST" :34,
+               "ODI" : 56,
+               "T20I" : 68,
+               "FC":88,
+               "lisrA": 133,
+               "T20s": 249
+             },
+             {
+               "FORMATE" : "50s/100s",
+               "TEST" : "1/0",
+               "ODI" :  " ",
+               "T20I" :  "13/",
+               "FC":   "366/67",
+               "lisrA":  "395/89",
+               "T20s":  "545/89"
+             },
+             {
+               "FORMATE" : "4s/6s",
+               "TEST" : "6/1",
+               "ODI" : "10/4",
+               "T20I" : "52/39",
+               "FC": "338/74",
+               "lisrA":  "178/75",
+               "T20s":  "304/27"
+             }
+         ],
+         "bowlling" : [
+           {
+             "FORMATE" : "Matches",
+             "TEST" :34,
+             "ODI" : 56,
+             "T20I" : 68,
+             "FC":88,
+             "lisrA": 133,
+             "T20s": 249
+           },
+           {
+            "FORMATE" : "Innings",
+            "TEST" : "-",
+            "ODI" :  56,
+            "T20I" : 68,
+            "FC":88,
+            "lisrA": 133,
+            "T20s": 249
+          },
+          {
+            "FORMATE" : "Rec.Form",
+            "TEST" :34,
+            "ODI" : 56,
+            "T20I" : 68,
+            "FC":88,
+            "lisrA": 133,
+            "T20s": 249
+          },
+          {
+            "FORMATE" : "Balls",
+            "TEST" :34,
+            "ODI" : 56,
+            "T20I" : 68,
+            "FC":88,
+            "lisrA": 133,
+            "T20s": 249
+          },
+          {
+            "FORMATE" : "Wicket",
+            "TEST" :34,
+            "ODI" : 56,
+            "T20I" : 68,
+            "FC":88,
+            "lisrA": 133,
+            "T20s": 249
+          },
+          {
+            "FORMATE" : "Economy",
+            "TEST" :34,
+            "ODI" : 56,
+            "T20I" : 68,
+            "FC":88,
+            "lisrA": 133,
+            "T20s": 249
+          },
+          {
+            "FORMATE" : "Bowl S/R",
+            "TEST" : "1/0",
+            "ODI" :  " ",
+            "T20I" :  "13/",
+            "FC":   "366/67",
+            "lisrA":  "395/89",
+            "T20s":  "545/89"
+          },
+          {
+            "FORMATE" : "5s",
+            "TEST" :  "-",
+            "ODI" : "2",
+            "T20I" : "2",
+            "FC": "3",
+            "lisrA":  "2",
+            "T20s":  "1"
+          }
+      ]
+          }      
+          
+
    ],
    "news":[],
-   "schedule":[],
-   "seriesUpcoming":[
-           {
-            "id":1,
-            "tour":"Namibia Women tour of South Africa",
-             "category":"Domestic",
-             "T20s":4,
-             "ODIs":0,
-             "Test":0,
-             "startDate":"Jul 13th",
-             "endDate":"Jul 14th",
-             "year":"2022"
-           },
-           {
-            "id":2,
-            "tour":"Quadrangular Under-19 Series in Netherlands",
-             "category":"Domestic",
-             "T20s":6,
-             "ODIs":0,
-             "Test":0,
-             "startDate":"Jul 19th",
-             "endDate":"Jul 21st",
-             "year":"2022"
-           },
-           {
-            "id":3,
-            "tour":"Women's Twenty20 Commonwealth Games",
-             "category":"Women",
-             "T20s":16,
-             "ODIs":0,
-             "Test":0,
-             "startDate":"Jul 29th",
-             "endDate":"Aug 8th",
-             "year":"2022"
-           },
-           {
-            "id":4,
-            "tour":"New Zealand tour of Scotland",
-             "category":"International",
-             "T20s":2,
-             "ODIs":1,
-             "Test":0,
-             "startDate":"Jul 27th",
-             "endDate":"Jul 31st",
-             "year":"2022"
-           },
-           {
-            "id":5,
-            "tour":"ICC T20 World Cup Europe Qualifier B, 2022",
-             "category":"Domestic",
-             "T20s":24,
-             "ODIs":0,
-             "Test":0,
-             "startDate":"Jul 24th",
-             "endDate":"Jul 31st",
-             "year":""
-           },
-           {
-            "id":6,
-            "tour":"Bangladesh tour of Zimbabwe, 2022",
-             "category":"Domestic",
-             "T20s":3,
-             "ODIs":3,
-             "Test":3,
-             "startDate":"Jul 30th",
-             "endDate":"Aug 10th",
-             "year":"2022"
-           },
-           {
-            "id":7,
-            "tour":"Lanka Premier League",
-             "category":"Domestic",
-             "T20s":24,
-             "ODIs":0,
-             "Test":0,
-             "startDate":"Aug 1st",
-             "endDate":"Aug 21st",
-             "year":"2022"
-           },
-           {
-            "id":8,
-            "tour":"New Zealand tour of Netherlands",
-             "category":"International",
-             "T20s":2,
-             "ODIs":0,
-             "Test":0,
-             "startDate":"Aug 4th",
-             "endDate":"Aug 6th",
-             "year":"2022"
-           },
-           {
-            "id":9,
-            "tour":"Kashmir Premier League",
-             "category":"Domestic",
-             "T20s":19,
-             "ODIs":0,
-             "Test":0,
-             "startDate":"Aug 6th",
-             "endDate":"Aug 17th",
-             "year":""
-           },
-           {
-            "id":10,
-            "tour":"Afghanistan tour of Ireland, 5 T20I Series",
-             "category":"International",
-             "T20s":5,
-             "ODIs":0,
-             "Test":0,
-             "startDate":"Aug 9th",
-             "endDate":"Aug 18th",
-             "year":""
-           }
-   ],
-   "seriesOngoing":[
-    {
-     "id":1,
-     "tour":"India tour of West Indies",
-      "category":"Domestic",
-      "T20s":5,
-      "ODIs":3,
-      "Test":0,
-      "startDate":"Jul 22th",
-      "endDate":"Aug 8th",
-      "year":"2022"
-    },
-    {
-     "id":2,
-     "tour":"ICC CWC League 2",
-      "category":"Domestic",
-      "T20s":0,
-      "ODIs":24,
-      "Test":0,
-      "startDate":"May 29th",
-      "endDate":"Aug 17th",
-      "year":"2022"
-    },
-    {
-     "id":3,
-     "tour":"South Africa tour of England",
-      "category":"Women",
-      "T20s":3,
-      "ODIs":3,
-      "Test":3,
-      "startDate":"July 19th",
-      "endDate":"Sep 12th",
-      "year":"2022"
-    },
-    {
-     "id":4,
-     "tour":"South Africa Women tour of England",
-      "category":"Women",
-      "T20s":3,
-      "ODIs":3,
-      "Test":1,
-      "startDate":"Jun 27th",
-      "endDate":"Jul 26st",
-      "year":"2022"
-    },
-    {
-     "id":5,
-     "tour":"Australia Women and Pakistan Women tour of Ireland, 2022",
-      "category":"Women",
-      "T20s":24,
-      "ODIs":0,
-      "Test":0,
-      "startDate":"Jul 16th",
-      "endDate":"Jul 25st",
-      "year":""
-    },
-    {
-     "id":6,
-     "tour":"Pakistan tour of Sri Lanka",
-      "category":"International",
-      "T20s":3,
-      "ODIs":3,
-      "Test":3,
-      "startDate":"Jul 30th",
-      "endDate":"Aug 10th",
-      "year":"2022"
-    },
-    {
-     "id":7,
-     "tour":"Lanka Premier League",
-      "category":"Domestic",
-      "T20s":24,
-      "ODIs":0,
-      "Test":0,
-      "startDate":"Aug 1st",
-      "endDate":"Aug 21st",
-      "year":"2022"
-    },
-    {
-     "id":8,
-     "tour":"New Zealand tour of Netherlands",
-      "category":"International",
-      "T20s":2,
-      "ODIs":0,
-      "Test":0,
-      "startDate":"Aug 4th",
-      "endDate":"Aug 6th",
-      "year":"2022"
-    },
-    {
-     "id":9,
-     "tour":"Kashmir Premier League",
-      "category":"Domestic",
-      "T20s":19,
-      "ODIs":0,
-      "Test":0,
-      "startDate":"Aug 6th",
-      "endDate":"Aug 17th",
-      "year":""
-    },
-    {
-     "id":10,
-     "tour":"Afghanistan tour of Ireland, 5 T20I Series",
-      "category":"International",
-      "T20s":5,
-      "ODIs":0,
-      "Test":0,
-      "startDate":"Aug 9th",
-      "endDate":"Aug 18th",
-      "year":""
-    }
-],
-"seriesCompleted":[
-  {
-   "id":1,
-   "tour":"New Zealand tour of Ireland",
-    "category":"Domestic",
-    "T20s":3,
-    "ODIs":3,
-    "Test":0,
-    "startDate":"Jul 10th",
-    "endDate":"Jul 22nd",
-    "year":"2022"
-  },
-  {
-   "id":2,
-   "tour":"Bukhatir T10 League",
-    "category":"International",
-    "T20s":28,
-    "ODIs":0,
-    "Test":0,
-    "startDate":"Jul 3rd",
-    "endDate":"Jul 21th",
-    "year":"2022"
-  },
-  {
-   "id":3,
-   "tour":"ICC T20 World Cup Europe Qualifier A",
-    "category":"Women",
-    "T20s":24,
-    "ODIs":0,
-    "Test":0,
-    "startDate":"July 12th",
-    "endDate":"Jul 19th",
-    "year":"2022"
-  },
-  {
-   "id":4,
-   "tour":"Shriram Andhra Premier League",
-    "category":"Domestic",
-    "T20s":19,
-    "ODIs":0,
-    "Test":0,
-    "startDate":"Jul 6th",
-    "endDate":"Jul 18th",
-    "year":"2022"
-  },
-  {
-   "id":5,
-   "tour":"India tour of England",
-    "category":"International",
-    "T20s":3,
-    "ODIs":3,
-    "Test":1,
-    "startDate":"Jul 7th",
-    "endDate":"Jul 17th",
-    "year":""
-  },
-  {
-   "id":6,
-   "tour":"Pakistan tour of Sri Lanka",
-    "category":"International",
-    "T20s":3,
-    "ODIs":3,
-    "Test":3,
-    "startDate":"Jul 30th",
-    "endDate":"Aug 10th",
-    "year":"2022"
-  },
-  {
-   "id":7,
-   "tour":"Lanka Premier League",
-    "category":"Domestic",
-    "T20s":24,
-    "ODIs":0,
-    "Test":0,
-    "startDate":"Aug 1st",
-    "endDate":"Aug 21st",
-    "year":"2022"
-  },
-  {
-   "id":8,
-   "tour":"New Zealand tour of Netherlands",
-    "category":"International",
-    "T20s":2,
-    "ODIs":0,
-    "Test":0,
-    "startDate":"Aug 4th",
-    "endDate":"Aug 6th",
-    "year":"2022"
-  },
-  {
-   "id":9,
-   "tour":"Kashmir Premier League",
-    "category":"Domestic",
-    "T20s":19,
-    "ODIs":0,
-    "Test":0,
-    "startDate":"Aug 6th",
-    "endDate":"Aug 17th",
-    "year":""
-  },
-  {
-   "id":10,
-   "tour":"Afghanistan tour of Ireland, 5 T20I Series",
-    "category":"International",
-    "T20s":5,
-    "ODIs":0,
-    "Test":0,
-    "startDate":"Aug 9th",
-    "endDate":"Aug 18th",
-    "year":""
-  }
-]
+   "schedule":[]
 }
