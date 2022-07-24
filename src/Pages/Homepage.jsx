@@ -16,12 +16,12 @@ import Footer from './../components/footer/Footer';
 const Homepage = () => {
   return (
     <div>
-      <Navbar/>
+    
       <Slider/>
       <FeathuredVideo/>
       <HomeNews/>
       <DataDigest/>
-      <Footer/>
+ 
 
     </div>
   )
